@@ -6,6 +6,10 @@ url: https://thecabinetofcuriosities.github.io/cbrpnk/ptbr
 
 permalink: pretty
 
+lang: en 
+languages: ["en", "ptbr"] 
+permalink: /:categories/:year/:month/:day/:title/
+
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/cabinet_logo.png"
 
