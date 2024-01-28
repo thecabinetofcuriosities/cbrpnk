@@ -2,13 +2,12 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://thecabinetofcuriosities.github.io/cbrpnk/ptbr
+url: https://thecabinetofcuriosities.github.io/cbrpnk/
 
 permalink: pretty
 
 lang: en 
 languages: ["en", "ptbr"] 
-permalink: /:categories/:year/:month/:day/:title/
 
 collections:
   en:
@@ -50,6 +49,3 @@ callouts:
   warning:
     title: Warning
     color: red
-
-  plugins:
-    - jekyll-multiple-languages-plugin
