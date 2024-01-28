@@ -6,9 +6,6 @@ url: https://thecabinetofcuriosities.github.io/cbrpnk/
 
 permalink: pretty
 
-lang: en 
-languages: ["en", "ptbr"] 
-
 collections:
   en:
     permalink: "/:collection/:path/"
