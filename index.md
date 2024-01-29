@@ -1,7 +1,7 @@
 ---
 title: CBR+PNK
 layout: home
-has_children: true
+has_children: false
 ---
 
 # CBR+PNK
