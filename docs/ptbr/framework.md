@@ -1,7 +1,7 @@
 ---
 title: Framework
 layout: home
-nav_order: 2
+nav_order: 3
 parent: Português Brasileiro
 permalink: docs/ptbr/framework
 ---
@@ -255,9 +255,9 @@ Resumo das fases do /Corre
 
 ### Corre
 
-1.  CHEGAR FERVENDO: PJs enfrentam seu primeiro obstáculo significativo.
-2.  ERRO 417: Tudo fica mais difícil. Uma reviravolta acontece, prioridades e interesses do grupo são desafiados. O OBSTÁCULO FINAL deve ser desafiador, resiliente, complexo, etc.
-3.  LOGOFF: Jogadoras fazem suas Jogadas de Esquema (Guia de MJ, quadro 7) e descrevem seus epílogos de acordo com o resultado.
+1.  __CHEGAR FERVENDO:__ PJs enfrentam seu primeiro obstáculo significativo.
+2.  __ERRO 417:__ Tudo fica mais difícil. Uma reviravolta acontece, prioridades e interesses do grupo são desafiados. O OBSTÁCULO FINAL deve ser desafiador, resiliente, complexo, etc.
+3.  __LOGOFF:__ Jogadoras fazem suas Jogadas de Esquema (Guia de MJ, quadro 7) e descrevem seus epílogos de acordo com o resultado.
 
 —
 
