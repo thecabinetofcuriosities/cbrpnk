@@ -6,15 +6,13 @@ parent: Português Brasileiro
 permalink: docs/ptbr/framework
 ---
 
-CBR+PNK
-
-FRAMEWORK
-
-v1.5 Março 2023
+**CBR+PNK**
+# FRAMEWORK
+_v1.5 Março 2023_
 
 —
 
-Essa brochura apresenta dicas para Moderadora, exemplos detalhados de Consequências, regras opcionais e as bases para um módulo de Campanha para CBR+PNK. Não é uma leitura necessária para jogar, mas lhe pode ajudar a compreender melhor o jogo e servir de guia para jogá-lo.
+_Essa brochura apresenta dicas para Moderadora, exemplos detalhados de Consequências, regras opcionais e as bases para um módulo de Campanha para CBR+PNK. Não é uma leitura necessária para jogar, mas lhe pode ajudar a compreender melhor o jogo e servir de guia para jogá-lo._
 
 Exemplos de Consequências
 =========================
@@ -90,16 +88,12 @@ EXEMPLOS DE AMEAÇAS
 * Forçatarefa™ (6 segmentos):Esquadrão paramilitar de elite. Armadura e artilharia pesada. Amplificações ofensivas.
 * Dozer (8 segmentos):Drone ofensivo bípede. Armadura pesada e braços-metralhadora.
 * Artemísia-I:Network Básico.
-
-* Defender (6 segmentos):Firewall ativa, rastreia e bloqueia intrusos. Aciona um P.C.I.
-
-* Encryption (4 segmentos):Esconde a base de dados local.
-
-* P.C.I. (4 segmentos):Protocolo de Contra-Insurgência. Ataca diretamente o cérebro.
+ * Defender (6 segmentos):Firewall ativa, rastreia e bloqueia intrusos. Aciona um P.C.I.
+    * Encryption (4 segmentos):Esconde a base de dados local.
+    * P.C.I. (4 segmentos):Protocolo de Contra-Insurgência. Ataca diretamente o cérebro.
 
 Long Shot (Modo Campanha)
 =========================
-
 Para 4—8 sessões / 3—5 jogadoras (incluindo a MJ).
 
 Neste modo paracampanhas curtas, o grupo de Marginais trabalhamem equipe contra um Opressor e/ou em favor de uma causa—derrubar um Estado autoritário, desmantelar uma rede de tráfico de pessoas, guiar e proteger um grupo de refugiados através de um território hostil, etc. Através de uma série de Corres em Flashback será descoberto o que as Marginais já sacrificaram ao preparar-se para enfrentar o Opressor.
@@ -109,21 +103,15 @@ Preparação
 
 1.  Selecione um OPRESSORe um ALVO—uma pessoa, lugar ou objeto que serve de foco para o Corre. As PJs também terão de enfrentar as CONTRAMEDIDAS DOOPRESSOR—ações que ele, ou seus apoiadores, tomarão para minar os esforços do grupo.
 2.  Determine o Esquema coletivo das Marginais—cada uma pode ter suas próprias razões para fazê-lo:
-
-* DERRUBAR O OPRESSOR
-
-* Que mentiras eles contam para se manter no topo?
-* Quem vocês confiam para tomar seu lugar?
-
-* RESISTIR AO OPRESSOR
-
-* O que eles querem tomar ou destruir—direitos básicos; recursos naturais; sua cultura?
-* Como garantir que eles não voltarão?
-
-* LIBERTAR DO OPRESSOR
-
-* O que/quem estão libertando—sua comunidade, sua nação, um recurso fundamental?
-* Como garantir que essas correntes permanecerão quebradas indefinidamente?
+ * **DERRUBAR O OPRESSOR**
+    * Que mentiras eles contam para se manter no topo?
+    * Quem vocês confiam para tomar seu lugar?
+ * **RESISTIR AO OPRESSOR**
+    * O que eles querem tomar ou destruir—direitos básicos; recursos naturais; sua cultura?
+    * Como garantir que eles não voltarão?
+ * **LIBERTAR DO OPRESSOR**
+    * O que/quem estão libertando—sua comunidade, sua nação, um recurso fundamental?
+    * Como garantir que essas correntes permanecerão quebradas indefinidamente?
 
 As Jogadoras inserem seus Esquemas na ação a partir do seu PLANO DEAÇÃO. Como um grupo, elaborem em detalhes aspectos de como é o OPRESSOR, como ele opera. Dessa forma, serão criadas e fornecidas informações valiosas para as Jogadoras tomarem melhores e mais conscientes escolhas em seu plano.
 
@@ -133,9 +121,7 @@ Estrutura da Campanha
 1.  O jogo começa no CLÍMAX: a MJ descreve uma situação em que as marginais se encontram já a caminho de seu objetivo final. Elas só tem uma chance para isso, qual é o seu PLANO DEAÇÃO? Hackear a rede para eliminar a I.A. da Autoridade? Usar táticas de guerrilha para vencer os capangas? Infiltrar a instalação e assassinar o CEO?
 2.  A MJ descreve como as CONTRAMEDIDAS DO OPRESSORinterferem no avanço da equipe. As PJs precisam lidar com cada CONTRAMEDIDA para prosseguir—como se fossem Consequências de um Adversário de Elite (Guia da MJ, quadro 6). As Jogadoras decidem que contramedidas vão SUPERAR primeiro e assim segue.
 3.  Para SUPERARuma CONTRAMEDIDA, jogue um Flashback como um Corre completo onde a equipe se prepara para vencer a contramedida da forma que acharem melhor.
-
 O Estresse do Flashback é determinado como de costume e marcado permanentemente na ficha de uma das PJ. Pule a Jogada de Esquema nesses Corres.
-
 4.  Quando todas as CONTRAMEDIDAS forem superadas, as Marginais podem finalmente seguir com seu plano. A MJ corta de volta para o CLÍMAX—jogado como uma cena, com algumas jogadas de dados, ou como uma sessão de jogo inteira.
 5.  Encerrem com uma FASE DE REPERCUSSÕES.
 
@@ -144,9 +130,9 @@ Fase de Descanso
 
 Entre os Corres, as PJs automaticamente removem todas as marcações nas suas Resistências Especiais e Equipamentos. Adicionalmente, cada Jogadora tem tempo e creds para duas Atividades de Descanso:
 
-* RECUPERAR:Remova todo Estresse ou abaixetodo o Dano em 1 Nível; O que você fez pra ficar melhor?
-* REPARAR:Um Equipamento ou Amplificação; Quem te ajuda com a sua tech?
-* PROJETO PARALELO: Uma gama de atividades que não empolgam as jogadoras o suficiente para serem cobertas em um próprio Corre—pesquisar um dataset, investigar alguém, pagar uma dívida, estabelecer um novo contato, treinar novas habilidades, etc.A MJ cria uma Trilha de Progresso baseada na complexidade e disponibilidade de recursos da tarefa. Sempre que trabalhando nessa tarefa, as Jogadoras descrevem o que suaspersonagens fazem para cumpri-la e fazem uma Jogada de Ação. Marque segmentos de acordo com o resultado: 1-3, uma marcação—4/5, duas marcações—6, três marcações—CRÍTICO, cinco marcações.
+* **RECUPERAR:** Remova todo Estresse ou abaixetodo o Dano em 1 Nível; O que você fez pra ficar melhor?
+* **REPARAR:** Um Equipamento ou Amplificação; Quem te ajuda com a sua tech?
+* **PROJETO PARALELO:** Uma gama de atividades que não empolgam as jogadoras o suficiente para serem cobertas em um próprio Corre—pesquisar um dataset, investigar alguém, pagar uma dívida, estabelecer um novo contato, treinar novas habilidades, etc.A MJ cria uma Trilha de Progresso baseada na complexidade e disponibilidade de recursos da tarefa. Sempre que trabalhando nessa tarefa, as Jogadoras descrevem o que suaspersonagens fazem para cumpri-la e fazem uma Jogada de Ação. Marque segmentos de acordo com o resultado: **1-3**, uma marcação—**4/5**, duas marcações—**6**, três marcações—**CRÍTICO**, cinco marcações.
 
 Fase de Repercussões
 --------------------
@@ -160,12 +146,13 @@ EXEMPLO DE OPRESSOR: OMNI GLOBAL SOLUTIONS
 
 Um mega-conglomerado mundial. O que eles realmente vendem? Que linhas morais e legais eles violaram em sua sede por acumulação de capital?
 
-VANTAGENS: Tecnologia de ponta, reputação impecável, operações globais, contratantes paramilitares, recursos de elite.
+### VANTAGENS: 
+Tecnologia de ponta, reputação impecável, operações globais, contratantes paramilitares, recursos de elite.
 
-ALVOS POTENCIAIS:Joy Inc., Uma fábrica automatizada; Presidente Castilho, um CEO imortal; monsoon.lib, um dataset de informações sigilosas; Brightstar™, uma comsat/estação orbital privada.
+### ALVOS POTENCIAIS:
+**Joy Inc.**, Uma fábrica automatizada; **Presidente Castilho**, um CEO imortal; **monsoon.lib**, um dataset de informações sigilosas; **Brightstar™**, uma comsat/estação orbital privada.
 
-CONTRAMEDIDAS:
-
+### CONTRAMEDIDAS:
 * Seus meios de comunicação espalham desinformação sobre as Marginais, manchando sua reputação e fazendo-as perder apoio popular.
 * É lançado o Projeto Quest, tornando os mais comuns dispositivos em operadores de um viciante jogo de Realidade Aumentada jogada por quase toda a cidade. Apesar de pensarem estar em uma mera corrida por MegaPontos, os participantes na verdade estão a todo custo ajudando a caçar as Marginais.
 * O aliado mais importante e confiável dos marginais é revelado sendo um agente da Omni-Global desde o início, sempre trabalhando para sabotar os planos do grupo—plantando falsas pistas, sabotando equipamento, subornando possíveis informantes, etc.
@@ -177,7 +164,7 @@ Tabelas Adicionais
 Construa um /Corre
 ------------------
 
-OBJETIVO
+### OBJETIVO
 
 1.  Assassinar / Seguir
 2.  Escoltar / Proteger
@@ -186,7 +173,7 @@ OBJETIVO
 5.  Invadir / Defender
 6.  Plantar / Sabotar
 
-LUGAR EXTERNO
+### LUGAR EXTERNO
 
 1.  Rodovia
 2.  Feira de rua
@@ -195,7 +182,7 @@ LUGAR EXTERNO
 5.  Favela
 6.  Jardins de Luxo
 
-LUGAR INTERNO
+### LUGAR INTERNO
 
 1.  Torre Corporativa
 2.  Instalação Subterrânea
@@ -204,7 +191,7 @@ LUGAR INTERNO
 5.  Usina Elétrica
 6.  Trem Monotrilho
 
-ALVO
+### ALVO
 
 1.  Líder Político
 2.  Celebridade
@@ -213,7 +200,7 @@ ALVO
 5.  Oficial Corporativo
 6.  I.A.
 
-STATUS
+### STATUS
 
 1.  Infiltrado
 2.  Desaparecido
@@ -222,7 +209,7 @@ STATUS
 5.  Prisioneiro
 6.  Refugiado
 
-QUESTÃO AMBIENTAL
+### QUESTÃO AMBIENTAL
 
 1.  Permanoite
 2.  Fumos tóxicos
@@ -231,7 +218,7 @@ QUESTÃO AMBIENTAL
 5.  Apagões
 6.  Pane na Rede
 
-CARREGAMENTO
+### CARREGAMENTO
 
 1.  Material Biológico
 2.  Informação Crítica
@@ -240,7 +227,7 @@ CARREGAMENTO
 5.  Protótipo Único
 6.  Fonte de Energia
 
-ORIGEM
+### ORIGEM
 
 1.  Extraterrestre
 2.  Coletiva
@@ -249,8 +236,7 @@ ORIGEM
 5.  Cartel
 6.  Governamental
 
-RUAS
-
+### RUAS
 1.  Revolta
 2.  Construção
 3.  Festival
@@ -267,13 +253,11 @@ Resumo das fases do /Corre
 2.  Jogadoras criam suas personagens.
 3.  MJ prepara locais, obstáculos e potenciais recursos.
 4.  Jogadoras decidem o PLANO DE AÇÃO:
-
-* Assalto
-* Trapaça
-* Discreto
-* Social
-* Transporte
-
+ * Assalto
+ * Trapaça
+ * Discreto
+ * Social
+ * Transporte
 5.  Jogadoras selecionam sua CARGA.
 6.  Corta pra ação.
 
@@ -285,8 +269,8 @@ Resumo das fases do /Corre
 
 —
 
-CBR+PNKfoi criada por EMANOEL MELO ([cabinetofcuriosities.games](https://www.google.com/url?q=https://cabinetofcuriosities.games&sa=D&source=editors&ust=1706554610923304&usg=AOvVaw26WvhqRN2LmNa_LozWtW3w)) e publicada pela MYTHWORKS ([myth.works](https://www.google.com/url?q=https://myth.works&sa=D&source=editors&ust=1706554610923666&usg=AOvVaw3gn4o3zrQ04WJUGPRNpRus)).
+CBR+PNKfoi criada por EMANOEL MELO ([cabinetofcuriosities.games](https://cabinetofcuriosities.games)) e publicada pela MYTHWORKS ([myth.works](https://myth.works)).
 
-Regras para Long-Shot (Campanha) foram adaptadas de Broken Spire, cenário de campanha para Blades in the Dark, de autoria de Sean Nitter.
+_Regras para Long-Shot (Campanha) foram adaptadas de Broken Spire, cenário de campanha para Blades in the Dark, de autoria de Sean Nitter._
 
-Este presente trabalho é baseado em Blades in the Dark, produto da One Seven Design, escrito e desenvolvido por John Harper, e licenciado para uso sob a Creative Commons Attribution 3.0 Unported license.
+_Este presente trabalho é baseado em Blades in the Dark, produto da One Seven Design, escrito e desenvolvido por John Harper, e licenciado para uso sob a Creative Commons Attribution 3.0 Unported license._
