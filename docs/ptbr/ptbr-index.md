@@ -3,8 +3,7 @@ title: Português Brasileiro
 layout: home
 nav_order: 2
 has_children: true
-parent: CBR+PNK
-permalink: docs/ptbr
+permalink: docs/ptbr/index
 ---
 # CBR+PNK Regras Base
 index.md Testing
