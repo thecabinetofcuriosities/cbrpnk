@@ -82,19 +82,18 @@ Dicas para Moderação de Jogo
 EXEMPLOS DE AMEAÇAS
 -------------------
 
-*   Pistões Explosivos (6 segmentos): Pequena gangue armada com pistolas e uma submetralhadora.
-*   Seguranças Priv. (6 segmentos): Poucos destacamentos. Armadura, pistolas e rifles.
-*   Ven3no (6 segmentos): Hacker habilidosa com cyberdeck defensivo de link-neural e leve artilharia.
-*   Forçatarefa™ (6 segmentos): Esquadrão paramilitar de elite. Armadura e artilharia pesada. Amplificações ofensivas.
-*   Dozer (8 segmentos): Drone ofensivo bípede. Armadura pesada e braços-metralhadora.
-* Artemísia-I: Network Básico.
- * Defender (6 segmentos): Firewall ativa, rastreia e bloqueia intrusos. Aciona um P.C.I.
-	* Encryption (4 segmentos): Esconde a base de dados local.
- * P.C.I. (4 segmentos): Protocolo de Contra-Insurgência. Ataca diretamente o cérebro.
+* __Pistões Explosivos__ (6 segmentos): Pequena gangue armada com pistolas e uma submetralhadora.
+* __Seguranças Priv.__ (6 segmentos): Poucos destacamentos. Armadura, pistolas e rifles.
+* __Ven3no__ (6 segmentos): Hacker habilidosa com cyberdeck defensivo de link-neural e leve artilharia.
+* __Forçatarefa™__ (6 segmentos): Esquadrão paramilitar de elite. Armadura e artilharia pesada. Amplificações ofensivas.
+* __Dozer__ (8 segmentos): Drone ofensivo bípede. Armadura pesada e braços-metralhadora.
+* __Artemísia-I:__ Network Básico.
+ * __Defender__ (6 segmentos): Firewall ativa, rastreia e bloqueia intrusos. Aciona um P.C.I.
+	* __Encryption__ (4 segmentos): Esconde a base de dados local.
+ * __P.C.I.__ (4 segmentos): Protocolo de Contra-Insurgência. Ataca diretamente o cérebro.
 
 Long Shot (Modo Campanha)
 =========================
-
 Para 4—8 sessões / 3—5 jogadoras (incluindo a MJ).
 
 Neste modo para campanhas curtas, o grupo de Marginais trabalham em equipe contra um Opressor e/ou em favor de uma causa—derrubar um Estado autoritário, desmantelar uma rede de tráfico de pessoas, guiar e proteger um grupo de refugiados através de um território hostil, etc. Através de uma série de Corres em Flashback será descoberto o que as Marginais já sacrificaram ao preparar-se para enfrentar o Opressor.
@@ -104,15 +103,15 @@ Preparação
 
 1.  Selecione um OPRESSOR e um ALVO—uma pessoa, lugar ou objeto que serve de foco para o Corre. As PJs também terão de enfrentar as CONTRAMEDIDAS DO OPRESSOR—ações que ele, ou seus apoiadores, tomarão para minar os esforços do grupo.
 2.  Determine o Esquema coletivo das Marginais—cada uma pode ter suas próprias razões para fazê-lo:
-*   DERRUBAR O OPRESSOR
- *   Que mentiras eles contam para se manter no topo?
- *   Quem vocês confiam para tomar seu lugar?
-*   RESISTIR AO OPRESSOR
- *   O que eles querem tomar ou destruir—direitos básicos; recursos naturais; sua cultura?
- *   Como garantir que eles não voltarão?
-*   LIBERTAR DO OPRESSOR
- *   O que/quem estão libertando—sua comunidade, sua nação, um recurso fundamental?
- *   Como garantir que essas correntes permanecerão quebradas indefinidamente?
+* __DERRUBAR O OPRESSOR__
+    * Que mentiras eles contam para se manter no topo?
+    * Quem vocês confiam para tomar seu lugar?
+* __RESISTIR AO OPRESSOR__
+    * O que eles querem tomar ou destruir—direitos básicos; recursos naturais; sua cultura?
+    * Como garantir que eles não voltarão?
+* __LIBERTAR DO OPRESSOR__
+    * O que/quem estão libertando—sua comunidade, sua nação, um recurso fundamental?
+    * Como garantir que essas correntes permanecerão quebradas indefinidamente?
 
 As Jogadoras inserem seus Esquemas na ação a partir do seu PLANO DE AÇÃO. Como um grupo, elaborem em detalhes aspectos de como é o OPRESSOR, como ele opera. Dessa forma, serão criadas e fornecidas informações valiosas para as Jogadoras tomarem melhores e mais conscientes escolhas em seu plano.
 
@@ -122,9 +121,7 @@ Estrutura da Campanha
 1.  O jogo começa no CLÍMAX: a MJ descreve uma situação em que as marginais se encontram já a caminho de seu objetivo final. Elas só tem uma chance para isso, qual é o seu PLANO DE AÇÃO? Hackear a rede para eliminar a I.A. da Autoridade? Usar táticas de guerrilha para vencer os capangas? Infiltrar a instalação e assassinar o CEO?
 2.  A MJ descreve como as CONTRAMEDIDAS DO OPRESSOR interferem no avanço da equipe. As PJs precisam lidar com cada CONTRAMEDIDA para prosseguir—como se fossem Consequências de um Adversário de Elite (Guia da MJ, quadro 6). As Jogadoras decidem que contramedidas vão SUPERAR primeiro e assim segue.
 3.  Para SUPERAR uma CONTRAMEDIDA, jogue um Flashback como um Corre completo onde a equipe se prepara para vencer a contramedida da forma que acharem melhor.
-
 O Estresse do Flashback é determinado como de costume e marcado permanentemente na ficha de uma das PJ. Pule a Jogada de Esquema nesses Corres.
-
 4.  Quando todas as CONTRAMEDIDAS forem superadas, as Marginais podem finalmente seguir com seu plano. A MJ corta de volta para o CLÍMAX—jogado como uma cena, com algumas jogadas de dados, ou como uma sessão de jogo inteira.
 5.  Encerrem com uma FASE DE REPERCUSSÕES.
 
@@ -133,9 +130,9 @@ Fase de Descanso
 
 Entre os Corres, as PJs automaticamente removem todas as marcações nas suas Resistências Especiais e Equipamentos. Adicionalmente, cada Jogadora tem tempo e creds para duas Atividades de Descanso:
 
-*   RECUPERAR: Remova todo Estresse ou abaixe todo o Dano em 1 Nível; O que você fez pra ficar melhor?
-*   REPARAR: Um Equipamento ou Amplificação; Quem te ajuda com a sua tech?
-*   PROJETO PARALELO: Uma gama de atividades que não empolgam as jogadoras o suficiente para serem cobertas em um próprio Corre—pesquisar um dataset, investigar alguém, pagar uma dívida, estabelecer um novo contato, treinar novas habilidades, etc. A MJ cria uma Trilha de Progresso baseada na complexidade e disponibilidade de recursos da tarefa. Sempre que trabalhando nessa tarefa, as Jogadoras descrevem o que suas personagens fazem para cumpri-la e fazem uma Jogada de Ação. Marque segmentos de acordo com o resultado: 1-3, uma marcação—4/5, duas marcações—6, três marcações—CRÍTICO, cinco marcações.
+*   __RECUPERAR:__ Remova todo Estresse ou abaixe todo o Dano em 1 Nível; O que você fez pra ficar melhor?
+*   __REPARAR:__ Um Equipamento ou Amplificação; Quem te ajuda com a sua tech?
+*   __PROJETO PARALELO:__ Uma gama de atividades que não empolgam as jogadoras o suficiente para serem cobertas em um próprio Corre—pesquisar um dataset, investigar alguém, pagar uma dívida, estabelecer um novo contato, treinar novas habilidades, etc. A MJ cria uma Trilha de Progresso baseada na complexidade e disponibilidade de recursos da tarefa. Sempre que trabalhando nessa tarefa, as Jogadoras descrevem o que suas personagens fazem para cumpri-la e fazem uma Jogada de Ação. Marque segmentos de acordo com o resultado: 1-3, uma marcação—4/5, duas marcações—6, três marcações—CRÍTICO, cinco marcações.
 
 Fase de Repercussões
 --------------------
