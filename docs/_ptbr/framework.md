@@ -3,7 +3,7 @@ title: Framework
 layout: home
 nav_order: 2
 parent: CBR+PNK / Português Brasileiro
-permalink: /ptbr/framework
+permalink: docs/ptbr/framework
 ---
 
 CBR+PNK
