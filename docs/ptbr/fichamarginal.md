@@ -10,7 +10,7 @@ permalink: docs/ptbr/marginal
 # FICHA DA MARGINAL
 _v1.5 March 2023_
 
-{: .dica }
+> [!WARNING]
 > Planilhas com Fichas das Marginais para jogos virtuais disponíveis em: [CBRPNK Augmented Fichas das Marginais](https://docs.google.com/spreadsheets/d/1yGt19YPAO2xkMGvOzMYAEmH0GEI_IsC6en4cNq8EmZA/template/preview)
 
 Protocolos de Jogadora
@@ -39,21 +39,25 @@ Registre a Marginal
 Identidade da Marginal
 ======================
 
-CODINOME \[PRONOMES\]:
-MARCAÇÃO DE PROCURADA
-APARÊNCIA:
+__CODINOME \[PRONOMES\]:__
 
-ESQUEMA — Porque você se arrisca no Corre:
+__MARCAÇÃO DE PROCURADA__
+
+__APARÊNCIA:__
+
+__ESQUEMA__ — Porque você se arrisca no Corre:
 *   Cair fora
 *   Se vingar
 *   Cuidar de alguém
 *   Melhorar de vida.
 *   Desvendar a verdade
 *   Lutar pela causa
-DETALHES DO ESQUEMA:
 
-DÍVIDA: 0 a 3
-CRED: 0 a 3
+__DETALHES DO ESQUEMA:__
+
+__DÍVIDA:__ 0 a 3
+
+__CRED:__ 0 a 3
 
 Abordagens
 ==========
@@ -98,8 +102,9 @@ Amplificações
 *   Marque 1 Estresse para ativar uma habilidade artificialmente amplificada (visão infravermelha , reflexos ampliados ou força cibórguica) ou para produzir/esconder um recurso compacto específico (uma lâmina, um químico, nano-robôs). Pode ser combinado com Esforçar.
 *   Marque uma RESISTÊNCIA ESPECIAL contra um tipo relevante de Consequência (Ex. uma  firewall neural, analisador comportamental, neutralizador de toxinas, revestimento a prova de fogo, etc).
 
-NOME DO AMPLIFICAÇÃO:
-MARCADA COMO COM GLITCH
+__NOME DO AMPLIFICAÇÃO:__
+
+__MARCADA COMO COM GLITCH__
 
 Carga / Equipamento
 ===================
@@ -140,7 +145,8 @@ Lista de Equipamentos
 Estresse
 ========
 
-TRILHA DE ESTRESSE: 7 SEGMENTOS.
+__TRILHA DE ESTRESSE:__ 7 SEGMENTOS.
+
 __ESFORÇAR:__ 2 Estresse / __AJUDAR:__ 1 Estresse / __FLASHBACK:__ 1 OU 2+ Estresse.
 
 __SOBRECARREGADA:__ Ao marcar o seu último ESTRESSE, uma Abordagem de sua escolha fica permanentemente com GLITCH e você imediatamente sofre uma complicação:
@@ -214,8 +220,8 @@ Flashback
 
 Declare um Flashback para ter tido uma ação no passado que tenha impacto no agora—desde que isso não “cancele” algo que já aconteceu ou já estabelecido. A ação funciona como de costume e pode precisar de uma jogada em caso de perigo ou incerteza. A MJ determina o custo de Estresse dependendo da plausibilidade do flashback:
 
-*   1 Estresse: Uma atividade plausível de ter acontecido.
-*   2 Estresse ou mais: Um plano elaborado envolvendo múltiplos e complexos fatores.
+*   __1 Estresse:__ Uma atividade plausível de ter acontecido.
+*   __2 Estresse ou mais:__ Um plano elaborado envolvendo múltiplos e complexos fatores.
 
 Tomar Fôlego
 ------------
@@ -239,10 +245,10 @@ __AMPLIFICAÇÕES:__ Implantes tecno-corporais adicionais com usos diferentes d
 __UPGRADES:__ Aprimore um Equipamento para Nível Alto ou adicione um novo uso a um Equipamento, Amplificação ou Recurso já existente. (Ex.: mísseis rastreadores, pneus extra resistentes, autoconserto com nano-robôs).
 
 Reduza o custo de Flashback ao declarar um Recurso, Amplificação ou Upgrade se escolher uma relevante __INCONVENIÊNCIA__:
-*   É grande e/ou pesada. Marque 1 ou 2 CARGAS EXTRA.
-*   É instável ou irreparavelmente danificada (Implante obsoleto, programa corrompido, arma improvisada). Marque como COM GLITCH.
-*   Nunca foi verdadeiramente paga… e por causa disso agora você é PROCURADA. Quem está te caçando? Sempre que atrair atenção indesejada, eles podem estar se aproximando.
-*   Você conseguiu ao fazer um negócio ou promessa. Nomeie seu patrocinador e marque uma DÍVIDA.
+*   É grande e/ou pesada. Marque 1 ou 2 __CARGAS EXTRA__.
+*   É instável ou irreparavelmente danificada (Implante obsoleto, programa corrompido, arma improvisada). Marque como __COM GLITCH__.
+*   Nunca foi verdadeiramente paga… e por causa disso agora você é __PROCURADA__. Quem está te caçando? Sempre que atrair atenção indesejada, eles podem estar se aproximando.
+*   Você conseguiu ao fazer um negócio ou promessa. Nomeie seu patrocinador e marque uma __DÍVIDA__.
 
 * * *
 

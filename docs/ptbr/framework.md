@@ -259,7 +259,7 @@ Resumo das fases do /Corre
 2.  __ERRO 417:__ Tudo fica mais difícil. Uma reviravolta acontece, prioridades e interesses do grupo são desafiados. O OBSTÁCULO FINAL deve ser desafiador, resiliente, complexo, etc.
 3.  __LOGOFF:__ Jogadoras fazem suas Jogadas de Esquema (Guia de MJ, quadro 7) e descrevem seus epílogos de acordo com o resultado.
 
-—
+* * *
 
 CBR+PNK foi criado por EMANOEL MELO ([cabinetofcuriosities.games](https://cabinetofcuriosities.games)) e publicado pela MYTHWORKS ([myth.works](https://myth.works)).
 
