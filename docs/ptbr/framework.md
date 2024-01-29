@@ -8,7 +8,6 @@ permalink: docs/ptbr/framework
 
 **CBR+PNK**
 # FRAMEWORK
-_v1.5 Março 2023_
 
 —
 

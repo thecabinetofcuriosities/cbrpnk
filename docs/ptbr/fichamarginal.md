@@ -8,7 +8,8 @@ permalink: docs/ptbr/marginal
 
 **CBR+PNK**
 # FICHA DA MARGINAL
-_v1.5 March 2023_
+
+—
 
 {: .dica }
 Planilhas com Fichas das Marginais para jogos virtuais disponíveis em: [CBRPNK Augmented Fichas das Marginais](https://docs.google.com/spreadsheets/d/1yGt19YPAO2xkMGvOzMYAEmH0GEI_IsC6en4cNq8EmZA/template/preview)

@@ -9,6 +9,8 @@ permalink: docs/ptbr/guiamj
 **CBR+PNK**
 # GUIA DA MODERADORA DO JOGO
 
+—
+
 Protocolos da Moderadora do Jogo
 ================================
 
@@ -33,7 +35,7 @@ Depois de selecionar o Corre, peça às jogadoras ficharem suas MARGINAIS (faze
 
 Enquanto isso, escreva um punhado de LOCAIS, potenciais RECURSOS e faça uma lista de 3 a 6 obstáculos que possam surgir no caminho.
 
-Não prepare mais do que preciso: Esse é um jogo que você JOGA PRA VER.
+Não prepare mais do que preciso: Esse é um jogo que você **JOGA PRA VER**.
 
 Quando todas estiverem prontas, relembre qual é o OBJETIVO do Corre e deixe as jogadoras escolherem seu PLANO DE AÇÃO e responderem às perguntas que seguem.
 
@@ -100,7 +102,7 @@ Se avaliar que um ou mais lados tem Vantagens em um ou outro aspecto da situaç�
 4.  A Jogadora rola seus dados:
     *   Um número igual ao total de seus valores de Abordagem+Habilidade.
     *   Adicione dados extras por Esforçar e/ou receber Ajuda.
-⚠ Se for rolar 0 ou menos dados, role 2 dados e use o pior resultado.
+    ⚠ Se for rolar 0 ou menos dados, role 2 dados e use o pior resultado.
 5.  A jogadora rola seus dados e usa o melhor resultado dentre eles, obtendo o resultado de acordo com a tabela abaixo.
 
 Jogadora e M.J. trabalham juntos para narrar a ação, mas é esta última que tem o dizer final sobre os  resultados e eventuais consequências.
@@ -112,7 +114,7 @@ Jogadora e M.J. trabalham juntos para narrar a ação, mas é esta última que t
 Dado com Glitch
 ---------------
 
-Cada fator de GLITCH usado numa Jogada de Ação troca um dado normal por um DADO COM GLITCH—use um dado facilmente diferenciável dos outros.
+Cada fator com __GLITCH__ usado numa Jogada de Ação troca um dado normal por um __DADO COM GLITCH__—use um dado facilmente diferenciável dos outros.
 
 Depois de avaliar o resultado do valor total como de costume, leia o DADO COM GLITCH separadamente. Se o valor for 1-3, gere uma Consequência que não pode ser Resistida, com 4-5, essa Consequência pode ser Resistida normalmente.
 
