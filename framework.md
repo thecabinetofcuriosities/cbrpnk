@@ -1,6 +1,7 @@
 ---
 title: Framweork
 layout: home
+permalink: /framework-pt/
 ---
 
 CBR+PNK
