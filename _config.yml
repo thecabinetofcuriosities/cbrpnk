@@ -43,7 +43,7 @@ callouts:
     title: New
     color: green
   note:
-    title: Note
+    title: Dica
     color: purple
   warning:
     title: Warning

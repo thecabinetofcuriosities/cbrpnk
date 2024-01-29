@@ -30,7 +30,7 @@ Este jogo toca em tópicos sensíveis como estigma racial, segregação de class
 
 * * *
 
-Guia da Moderadora do Jogo
+# Guia da Moderadora do Jogo
 
 Protocolos da Moderadora do Jogo
 ================================
@@ -116,29 +116,21 @@ Jogada de Ação
 Quando um PJ enfrenta uma situação perigosa e desafiadora, o resultado é determinado por um JOGADA DE AÇÃO:
 
 1.  A jogadora descreve o que quer alcançar e quais Abordagens, Habilidades e quaisquer outros fatores (equipamento, amplificações, aspectos do ambiente, etc.) usará fazê\-lo.
-
 Não existem Abordagens “erradas” para lidar com uma situação. Entretanto, certas abordagens podem ser menos efetivas ou resultar em consequências mais severas, forçando a Jogadora a repensar seu rumo de ação para melhorar sua posição.
-
 2.  A M.J. avalia o perigo e revela as prováveis consequências.
-
 Se avaliar que um ou mais lados tem Vantagens em um ou outro aspecto da situação, a M.J. deve informar os Níveis de Ameaça e Efeito esperados—caso contrário, use o nível padrão (Nível 2).
-
 3.  A Jogadora pode então escolher por aumentar simultaneamente os Níveis de Ameaça e Efeito, para melhorar o Efeito sob o custo de uma pior consequência.
-
 4.  A Jogadora rola seus dados:
-*   Um número igual ao total de seus valores de Abordagem+Habilidade.
-*   Adicione dados extras por Esforçar e/ou receber Ajuda.
-
+    *   Um número igual ao total de seus valores de Abordagem+Habilidade.
+    *   Adicione dados extras por Esforçar e/ou receber Ajuda.
 ⚠ Se for rolar 0 ou menos dados, role 2 dados e use o pior resultado.
-
 5.  A jogadora rola seus dados e usa o melhor resultado dentre eles, obtendo o resultado de acordo com a tabela abaixo.
 
 Jogadora e M.J. trabalham juntos para narrar a ação, mas é esta última que tem o dizer final sobre os  resultados e eventuais consequências.
-
-*   6,6: Crítico. Sucesso completo, ganhe um benefício extra (desvendar um segredo, melhorar sua posição, localizar uma recompensa).
-*   6: Sucesso. Tudo vai como planejado.
-*   4/5: Sucesso Parcial. Ação é realizada, mas sofra uma consequência.
-*   1-3: Fracasso. Tudo vai mal e nada ocorre como esperado, sofra uma consequência.
+*   __6,6: Crítico.__ Sucesso completo, ganhe um benefício extra (desvendar um segredo, melhorar sua posição, localizar uma recompensa).
+*   __6: Sucesso.__ Tudo vai como planejado.
+*   __4/5: Sucesso Parcial.__ Ação é realizada, mas sofra uma consequência.
+*   __1-3: Fracasso.__ Tudo vai mal e nada ocorre como esperado, sofra uma consequência.
 
 Dado com Glitch
 ---------------
@@ -156,9 +148,8 @@ Cada lado de um conflito pode ter uma VANTAGEM de acordo com uso de equipamento
 
 *   Se o OBSTÁCULO tem uma Vantagem permitindo que ele responda mais efetivamente, aumente a Ameaça. Se a Vantagem aprimora sua defesa ou minimaliza os esforços da PJ, reduza o Efeito.
 *   Se uma MARGINAL tem uma Vantagem que pode mitigar ou evitar retaliação do OBSTÁCULO, reduza a Ameaça. Se a Vantagem pode fazer sua ação mais efetiva, aumente o Efeito.
-
-*   Ao usar uma Especialização, a Jogadora pode trocar um dado por uma Vantagem.
-*   A Jogadora pode escolher se Esforçar para aumentar o Efeito.
+    *   Ao usar uma Especialização, a Jogadora pode trocar um dado por uma Vantagem.
+    *   A Jogadora pode escolher se Esforçar para aumentar o Efeito.
 
 Consequências
 =============
@@ -173,7 +164,7 @@ Infligidas por inimigos, por más circunstâncias ou por falta de sorte numa jog
 
 Combine esses como for melhor para a ficção (Ex. A PJ falha em uma Jogada contra um inimigo de Ameaça 3. Como consequência, a MJ pode causar Dano de Nível 3 ou um Dano de Nível 1 e a PJ é desarmada pelo inimigo).
 
-Marginais podem RESISTIR a cada Consequência separadamente.
+Marginais podem __RESISTIR__ a cada Consequência separadamente.
 
 Cada Nível de Dano implica uma penalidade ao Jogada de Ação pertinente (pode ser eliminada depois ao Tomar Fôlego). Se uma PJ toma dano de Nível já preenchido, preenche em vez um nível acima. Se não houver mais espaços para preencher, é Hora de Morrer. 
 
@@ -188,9 +179,9 @@ Quando as Marginais avançam em direção ao seu objetivo, marque um número esp
 
 Use Trilhas de Progressão para:
 
-*   Marcar o progresso de uma tarefa: a resiliência de um oponente ou a integridade de uma firewall. A tarefa termina quando a Trilha de Progressão chega ao final.
-*   Começar uma contagem regressiva: a chegada de reforços oponentes ou uma bomba-relógio. O evento ocorre quando a Trilha é preenchida.
-*   Representar uma corrida: um hacker infiltrando um sistema enquanto os seguranças se aproximam. Marque 2 Trilhas de Progressão opostas, elas não precisam ter o mesmo tamanho.
+*   __Marcar o progresso de uma tarefa:__ a resiliência de um oponente ou a integridade de uma firewall. A tarefa termina quando a Trilha de Progressão chega ao final.
+*   __Começar uma contagem regressiva:__ a chegada de reforços oponentes ou uma bomba-relógio. O evento ocorre quando a Trilha é preenchida.
+*   __Representar uma corrida:__ um hacker infiltrando um sistema enquanto os seguranças se aproximam. Marque 2 Trilhas de Progressão opostas, elas não precisam ter o mesmo tamanho.
 
 Habilidade de Adversário
 ========================
@@ -205,7 +196,7 @@ Ao tomar a iniciativa, Adversários de **Elite** podem infligir uma Consequênc
 
 * * *
 
-FICHA DA MARGINAL
+# FICHA DA MARGINAL
 
 {: .dica }
 > Planilhas com Fichas das Marginais para jogos virtuais disponíveis em: [CBRPNK Augmented Fichas das Marginais](https://docs.google.com/spreadsheets/d/1yGt19YPAO2xkMGvOzMYAEmH0GEI_IsC6en4cNq8EmZA/template/preview)
