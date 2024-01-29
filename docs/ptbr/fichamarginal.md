@@ -12,7 +12,7 @@ permalink: docs/ptbr/marginal
 —
 
 {: .dica }
-Planilhas com Fichas das Marginais para jogos virtuais disponíveis em: [CBRPNK Augmented Fichas das Marginais](https://docs.google.com/spreadsheets/d/1yGt19YPAO2xkMGvOzMYAEmH0GEI_IsC6en4cNq8EmZA/template/preview)
+Planilha do Google com Fichas das Marginais para jogos virtuais disponíveis em: [CBRPNK Augmented Fichas das Marginais](https://docs.google.com/spreadsheets/d/1yGt19YPAO2xkMGvOzMYAEmH0GEI_IsC6en4cNq8EmZA/template/preview)
 
 Protocolos de Jogadora
 ======================
@@ -34,7 +34,7 @@ Registre a Marginal
 3.  Você arrisca tudo por um motivo. Qual o teu esquema? Escolha um Esquema e o detalhe brevemente.
 4.  Assinale 2, 1, e 1 em três quaisquer Abordagens da sua escolha.
 5.  Distribua 8 dados entre suas Habilidades. Para escolher uma Especialização, gaste um terceiro dado em uma Habilidade—escolha ou escreva tal Especialização ao lado.
-6.  AMPLIFICAÇÕES tecnológico-corporais de todos os tipos são bastante comuns entre a população, e especialmente entre Marginais. Defina sua particular Amplificação, anotando seu modelo/marca e sua característica principal. (Ex., Ashidetm Turbo-Pernas). Ao rolar uma ação ou resistir a uma Consequência, você pode marcar 1 Estresse ou uma RESISTÊNCIA ESPECIAL para aplicar a Amplificação em seu favor. Durante o Corre, você pode declarar Amplificações adicionais ou adicionar funcionalidades extras às Amplis. já existentes como UPGRADES (quadro 8).
+6.  AMPLIFICAÇÕES tecnológico-corporais de todos os tipos são bastante comuns entre a população, e especialmente entre Marginais. Defina sua **particular Amplificação**, anotando seu modelo/marca e sua característica principal. (Ex., Turbo-Pernas Ashide™). Ao rolar uma ação ou resistir a uma Consequência, você pode marcar 1 Estresse ou uma RESISTÊNCIA ESPECIAL para aplicar a Amplificação em seu favor. Durante o Corre, você pode declarar Amplificações adicionais ou adicionar funcionalidades extras às Amplis. já existentes como UPGRADES (quadro 8).
 7.  Não escolha seu Equipamento ainda—você vai decidi-lo quando precisar no meio do Corre. Por enquanto, você pode já circular aqueles itens que você tem interesse, pra escolher mais rápido quando preciso.
 
 Identidade da Marginal

@@ -100,9 +100,9 @@ Não existem Abordagens “erradas” para lidar com uma situação. Entretanto
 Se avaliar que um ou mais lados tem Vantagens em um ou outro aspecto da situação, a M.J. deve informar os Níveis de Ameaça e Efeito esperados—caso contrário, use o nível padrão (Nível 2).
 3.  A Jogadora pode então escolher por aumentar simultaneamente os Níveis de Ameaça e Efeito, para melhorar o Efeito sob o custo de uma pior consequência.
 4.  A Jogadora rola seus dados:
-    *   Um número igual ao total de seus valores de Abordagem+Habilidade.
-    *   Adicione dados extras por Esforçar e/ou receber Ajuda.
-    ⚠ Se for rolar 0 ou menos dados, role 2 dados e use o pior resultado.
+    * Um número igual ao total de seus valores de Abordagem+Habilidade.
+    * Adicione dados extras por Esforçar e/ou receber Ajuda.
+    * ⚠ Se for rolar 0 ou menos dados, role 2 dados e use o pior resultado.
 5.  A jogadora rola seus dados e usa o melhor resultado dentre eles, obtendo o resultado de acordo com a tabela abaixo.
 
 Jogadora e M.J. trabalham juntos para narrar a ação, mas é esta última que tem o dizer final sobre os  resultados e eventuais consequências.

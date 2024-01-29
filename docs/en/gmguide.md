@@ -98,7 +98,7 @@ When a Player Character faces a risky or troublesome situation, the outcome is d
 4. Player gathers their dice:
  * A number equal to Approach+Skill ratings.
  * Add bonus dice from Push and/or Assist.
- ⚠ If ending up with zero or less dice, they must roll two dice and keep the lowest.
+ * ⚠ If ending up with zero or less dice, they must roll two dice and keep the lowest.
 5. The Player rolls their dice and reads the single highest result, judging the outcome by the table below.
 
 Player and GM work together narrating the action, but the latter has the final say over the outcome and is the one declaring eventual Consequences.
@@ -124,8 +124,8 @@ In a conflict, each side may have an EDGE from how they are using gear, tactics,
 
 * If the OPPOSITION has an Edge allowing them to respond more effectively, Increase Threat. If their Edge improves their defenses or diminishes the PC’s efforts would Reduce Effect.
 * If the RUNNER has an Edge that can avoid or mitigate retaliation from the Threat, Reduce Threat. An Edge that increases their effectiveness might give Increased Effect.
- * Using an Expertise , they can trade a die for an Edge.
- * They can choose to Push themselves for Increased Effect.
+    * Using an Expertise , they can trade a die for an Edge.
+    * They can choose to Push themselves for Increased Effect.
 
 Consequences
 ============
@@ -174,7 +174,7 @@ By taking the initiative, when **Elite** adversaries act they can inflict a Cons
 
 Runner File
 
-Runner File Spreadsheets for virtual play available at: [CBRPNK Augmented Runner Files](https://docs.google.com/spreadsheets/d/1pJVDX_LFTUAykIb0rzIGRbysn_p9R3qzvkk7MjuyCU0/template/preview)
+Runner File Google Spreadsheets for virtual play available at: [CBRPNK Augmented Runner Files](https://docs.google.com/spreadsheets/d/1pJVDX_LFTUAykIb0rzIGRbysn_p9R3qzvkk7MjuyCU0/template/preview)
 
 Player Protocols
 ================
@@ -196,7 +196,7 @@ File a Runner
 3. You risk it all for a reason. What’s in it for you? Choose an Angle and detail it briefly.
 4. Assign 2 , 1 , and 1 in any order to three of your Approaches.
 5. Distribute 8 dice over your Skills. To assign an Expertise, spend a third die on a particular Skill—choose or write the Expertise down aside.
-6. Body modifications of all types—Cybernetics, Biotech, and others—are widely adopted among Runners. Define your starting Signature Augmentation by writing down its model/brand and an outline of its primary feature, e.g., Ashidetm Racing Legs. While taking action or resisting Consequences, you can mark 1 Stress or SPECIAL RESISTANCE to leverage your Augmentation into it. During the Run, you may declare additional Augmentations or extra functionalities of existing ones as UPGRADES (panel 8).
+6. Body modifications of all types—Cybernetics, Biotech, and others—are widely adopted among Runners. Define your starting **Signature Augmentation** by writing down its model/brand and an outline of its primary feature, e.g., Ashide™ Racing Legs. While taking action or resisting Consequences, you can mark 1 Stress or SPECIAL RESISTANCE to leverage your Augmentation into it. During the Run, you may declare additional Augmentations or extra functionalities of existing ones as UPGRADES (panel 8).
 7. Don’t pick your Gear just yet—you’ll decide what you are carrying on the fly during the Run. For now, just circle on the list the ones you are interested in, for easy referencing later.
 
 Runner ID
