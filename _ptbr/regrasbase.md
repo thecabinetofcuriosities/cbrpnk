@@ -2,7 +2,7 @@
 title: Regras Base
 layout: home
 nav_order: 1
-parent: ptbr-index
+parent: CBR+PNK / Português Brasileiro
 permalink: /ptbr/regrasbase
 ---
 

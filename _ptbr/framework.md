@@ -2,8 +2,8 @@
 title: Framework
 layout: home
 nav_order: 2
-parent: ptbr-index
-permalink: /ptbr/framework-pt
+parent: CBR+PNK / Português Brasileiro
+permalink: /ptbr/framework
 ---
 
 CBR+PNK
