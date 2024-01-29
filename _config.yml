@@ -51,6 +51,9 @@ callouts:
   dica:
     title: Dica
     color: purple
+  tip:
+    title: Tip
+    color: purple
   warning:
     title: Warning
     color: red
