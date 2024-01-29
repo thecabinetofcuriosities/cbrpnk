@@ -1,5 +1,5 @@
 ---
-title: CBR+PNK / Português Brasileiro
+title: Português Brasileiro
 layout: home
 nav_order: 2
 has_children: true

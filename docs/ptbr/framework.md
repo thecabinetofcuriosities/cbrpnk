@@ -2,7 +2,7 @@
 title: Framework
 layout: home
 nav_order: 2
-parent: CBR+PNK / Português Brasileiro
+parent: Português Brasileiro
 permalink: docs/ptbr/framework
 ---
 

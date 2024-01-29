@@ -1,5 +1,5 @@
 ---
-title: CBR+PNK / Core Rules
+title: English
 layout: home
 nav_order: 1
 has_children: true
