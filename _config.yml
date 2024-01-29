@@ -42,6 +42,12 @@ callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
+  content:
+    title: Content Warning
+    color: yellow
+  conteudo:
+    title: Alerta de Conteúdo
+    color: yellow
   important:
     title: Important
     color: blue
