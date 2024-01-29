@@ -103,27 +103,27 @@ Preparação
 
 1.  Selecione um OPRESSOR e um ALVO—uma pessoa, lugar ou objeto que serve de foco para o Corre. As PJs também terão de enfrentar as CONTRAMEDIDAS DO OPRESSOR—ações que ele, ou seus apoiadores, tomarão para minar os esforços do grupo.
 2.  Determine o Esquema coletivo das Marginais—cada uma pode ter suas próprias razões para fazê-lo:
-* __DERRUBAR O OPRESSOR__
-    * Que mentiras eles contam para se manter no topo?
-    * Quem vocês confiam para tomar seu lugar?
-* __RESISTIR AO OPRESSOR__
-    * O que eles querem tomar ou destruir—direitos básicos; recursos naturais; sua cultura?
-    * Como garantir que eles não voltarão?
-* __LIBERTAR DO OPRESSOR__
-    * O que/quem estão libertando—sua comunidade, sua nação, um recurso fundamental?
-    * Como garantir que essas correntes permanecerão quebradas indefinidamente?
+    * __DERRUBAR O OPRESSOR__
+        * Que mentiras eles contam para se manter no topo?
+        * Quem vocês confiam para tomar seu lugar?
+    * __RESISTIR AO OPRESSOR__
+        * O que eles querem tomar ou destruir—direitos básicos; recursos naturais; sua cultura?
+        * Como garantir que eles não voltarão?
+    * __LIBERTAR DO OPRESSOR__
+        * O que/quem estão libertando—sua comunidade, sua nação, um recurso fundamental?
+        * Como garantir que essas correntes permanecerão quebradas indefinidamente?
 
 As Jogadoras inserem seus Esquemas na ação a partir do seu PLANO DE AÇÃO. Como um grupo, elaborem em detalhes aspectos de como é o OPRESSOR, como ele opera. Dessa forma, serão criadas e fornecidas informações valiosas para as Jogadoras tomarem melhores e mais conscientes escolhas em seu plano.
 
 Estrutura da Campanha
 ---------------------
 
-1.  O jogo começa no CLÍMAX: a MJ descreve uma situação em que as marginais se encontram já a caminho de seu objetivo final. Elas só tem uma chance para isso, qual é o seu PLANO DE AÇÃO? Hackear a rede para eliminar a I.A. da Autoridade? Usar táticas de guerrilha para vencer os capangas? Infiltrar a instalação e assassinar o CEO?
-2.  A MJ descreve como as CONTRAMEDIDAS DO OPRESSOR interferem no avanço da equipe. As PJs precisam lidar com cada CONTRAMEDIDA para prosseguir—como se fossem Consequências de um Adversário de Elite (Guia da MJ, quadro 6). As Jogadoras decidem que contramedidas vão SUPERAR primeiro e assim segue.
-3.  Para SUPERAR uma CONTRAMEDIDA, jogue um Flashback como um Corre completo onde a equipe se prepara para vencer a contramedida da forma que acharem melhor.
+1.  O jogo começa no __CLÍMAX__: a MJ descreve uma situação em que as marginais se encontram já a caminho de seu objetivo final. Elas só tem uma chance para isso, qual é o seu PLANO DE AÇÃO? Hackear a rede para eliminar a I.A. da Autoridade? Usar táticas de guerrilha para vencer os capangas? Infiltrar a instalação e assassinar o CEO?
+2.  A MJ descreve como as __CONTRAMEDIDAS DO OPRESSOR__ interferem no avanço da equipe. As PJs precisam lidar com cada CONTRAMEDIDA para prosseguir—como se fossem Consequências de um Adversário de Elite (Guia da MJ, quadro 6). As Jogadoras decidem que contramedidas vão SUPERAR primeiro e assim segue.
+3.  Para SUPERAR uma CONTRAMEDIDA, jogue um __Flashback__ como um Corre completo onde a equipe se prepara para vencer a contramedida da forma que acharem melhor.
 O Estresse do Flashback é determinado como de costume e marcado permanentemente na ficha de uma das PJ. Pule a Jogada de Esquema nesses Corres.
 4.  Quando todas as CONTRAMEDIDAS forem superadas, as Marginais podem finalmente seguir com seu plano. A MJ corta de volta para o CLÍMAX—jogado como uma cena, com algumas jogadas de dados, ou como uma sessão de jogo inteira.
-5.  Encerrem com uma FASE DE REPERCUSSÕES.
+5.  Encerrem com uma __FASE DE REPERCUSSÕES__.
 
 Fase de Descanso
 ----------------
@@ -132,7 +132,7 @@ Entre os Corres, as PJs automaticamente removem todas as marcações nas suas Re
 
 *   __RECUPERAR:__ Remova todo Estresse ou abaixe todo o Dano em 1 Nível; O que você fez pra ficar melhor?
 *   __REPARAR:__ Um Equipamento ou Amplificação; Quem te ajuda com a sua tech?
-*   __PROJETO PARALELO:__ Uma gama de atividades que não empolgam as jogadoras o suficiente para serem cobertas em um próprio Corre—pesquisar um dataset, investigar alguém, pagar uma dívida, estabelecer um novo contato, treinar novas habilidades, etc. A MJ cria uma Trilha de Progresso baseada na complexidade e disponibilidade de recursos da tarefa. Sempre que trabalhando nessa tarefa, as Jogadoras descrevem o que suas personagens fazem para cumpri-la e fazem uma Jogada de Ação. Marque segmentos de acordo com o resultado: 1-3, uma marcação—4/5, duas marcações—6, três marcações—CRÍTICO, cinco marcações.
+*   __PROJETO PARALELO:__ Uma gama de atividades que não empolgam as jogadoras o suficiente para serem cobertas em um próprio Corre—pesquisar um dataset, investigar alguém, pagar uma dívida, estabelecer um novo contato, treinar novas habilidades, etc. A MJ cria uma Trilha de Progresso baseada na complexidade e disponibilidade de recursos da tarefa. Sempre que trabalhando nessa tarefa, as Jogadoras descrevem o que suas personagens fazem para cumpri-la e fazem uma Jogada de Ação. Marque segmentos de acordo com o resultado: __1-3__, uma marcação—__4/5__, duas marcações—__6__, três marcações—__CRÍTICO__, cinco marcações.
 
 Fase de Repercussões
 --------------------

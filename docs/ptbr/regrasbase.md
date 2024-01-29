@@ -30,7 +30,7 @@ Este jogo toca em tópicos sensíveis como estigma racial, segregação de class
 
 * * *
 
-# Guia da Moderadora do Jogo
+# GUIA DA MODERADORA DO JOGO
 
 Protocolos da Moderadora do Jogo
 ================================
@@ -250,19 +250,16 @@ Abordagens
 
 Cada Abordagem gera 0 a 2 dados à Jogada de Ação.
 
-* AGRESSIVA
+* __AGRESSIVA__
  * Força, Intimidação, Destruição
  * GLITCH: Hesitante
-
-* ESPERTA
+* __ESPERTA__
  * Criatividade, Astúcia, Percepção
  * GLITCH: Confusa
-
-* EMPÁTICA
+* __EMPÁTICA__
  * Carisma, Liderança, Diplomacia.
  * GLITCH: Apática
-
-*   FURTIVA
+* __FURTIVA__
  * Discrição, Subterfúgio, Sigilo.
  * GLITCH: Impulsiva
 
@@ -271,17 +268,17 @@ Habilidades
 
 Cada Habilidade gera de 0 a 2 dados à Jogada de Ação. ESPECIALIZAÇÕES (sugeridas depois da Habilidade) não adicionam dados à jogada, mas permitem a troca de 1 dado por uma VANTAGEM—e vice-versa—quando aplicáveis.
 
-*   Analisar: Pessoas, Situações, Informação.
-*   Atletismo: Correr, Parkour, Nadar, Escalar.
-*   Atirar: Pistolas, Rifles, Submetralhadoras, Arremessar.
-*   Ciências: Física, Química, Biotecnologia
-*   Combate Corporal: Lutar, Armas:
-*   Cyber: Hackear, Minar e Compilar Dados.
-*   Gambiarra: Eletrônicos, Robôs, Maquinaria Pesada.
-*   Influência: Convencer, Barganhar, Intimidar.
-*   Malandragem: Contatos, Fofocas, Localizar.
-*   Pilotagem: Carros, Bikes, Aeronaves, Drones.
-*   Sintonia△: Espíritos, Artefatos, Lugares.
+*   __Analisar:__ Pessoas, Situações, Informação.
+*   __Atletismo:__ Correr, Parkour, Nadar, Escalar.
+*   __Atirar:__ Pistolas, Rifles, Submetralhadoras, Arremessar.
+*   __Ciências:__ Física, Química, Biotecnologia
+*   __Combate Corporal:__ Lutar, Armas:
+*   __Cyber:__ Hackear, Minar e Compilar Dados.
+*   __Gambiarra:__ Eletrônicos, Robôs, Maquinaria Pesada.
+*   __Influência:__ Convencer, Barganhar, Intimidar.
+*   __Malandragem:__ Contatos, Fofocas, Localizar.
+*   __Pilotagem:__ Carros, Bikes, Aeronaves, Drones.
+*   __Sintonia△:__ Espíritos, Artefatos, Lugares.
 
 △ Veja o /plugin +Weird pra entender essa Habilidade.
 
@@ -319,7 +316,6 @@ Lista de Equipamentos
 *   DISFARCE OU CAMUFLAGEM (1 carga)
 *   ARMADURA (1 carga)
  * +PESADA (2 cargas)
-
 *   EQUIP. DE INFILTRAÇÃO (1 carga)
 *   MUNIÇÃO EXTRA (1 carga): PADRÃO / PERFURANTE / EXPLOSIVA / INCENDIÁRIA
 *   KIT DE SOBREVIVÊNCIA (1 carga, 3 usos): MÁSCARA, RAÇÕES, PURIF. DE AR/ÁGUA.
@@ -352,17 +348,14 @@ Resistência / Armadura
 
 Descreva como você está RESISTINDO para reduzir a severidade de uma Consequência ou até evitar esta completamente. Escolha um método:
 
-*   Marque e esgote um dos seguintes:
-
-*   RESISTÊNCIA ESPECIAL (Ex. Pense em um uso defensivo para sua Amplificação.)
-*   Uma ARMADURA de um tipo relevante (Como ela se parece?)
-
-*   Role a ABORDAGEM apropriada (não adicione Habilidade nessa jogada), adicione 1 dado se você decidir esgotar/destruir um EQUIPAMENTO relevante:
-
-*   6,6: Fácil D+.
-*   6: Sólido. Marque 1 Estresse.
-*   4/5: Podia ser pior. Marque 2 Estresse.
-*   1-3: Por pouco. Marque 3 Estresse.
+* Marque e esgote um dos seguintes:
+    * RESISTÊNCIA ESPECIAL (Ex. Pense em um uso defensivo para sua Amplificação.)
+    * Uma ARMADURA de um tipo relevante (Como ela se parece?)
+* Role a ABORDAGEM apropriada (não adicione Habilidade nessa jogada), adicione 1 dado se você decidir esgotar/destruir um EQUIPAMENTO relevante:
+    * __6,6:__ Fácil D+.
+    * __6:__ Sólido. Marque 1 Estresse.
+    * __4/5:__ Podia ser pior. Marque 2 Estresse.
+    * __1-3:__ Por pouco. Marque 3 Estresse.
 
 Dano
 ====
@@ -371,21 +364,15 @@ Se uma PJ toma dano de um Nível já preenchido, preencha em vez o Nível de Dan
 
 Se um DANO dificultaria uma ação, aplique a PENALIDADE designada—se estiver NOCAUTEADA, você só pode agir ao se ESFORÇAR ou se alguém te AJUDAR.
 
-*   Nível 1 — Penalidade: Efeito Reduzido
-
-*   Descrição do Dano (Slot 1):
-*   Descrição do Dano (Slot 2):
-
-*   Nível 2 — Penalidade: Um dado a menos
-
-*   Descrição do Dano  (Slot 1):
-*   Descrição do Dano  (Slot 2):
-
-*   Nível 3 — Penalidade: Nocauteado
-
-*   Descrição do Dano:
-
-*   Nível 4 — Hora de Morrer.
+* Nível 1 — Penalidade: Efeito Reduzido
+    * Descrição do Dano (Slot 1):
+    * Descrição do Dano (Slot 2):
+* Nível 2 — Penalidade: Um dado a menos
+    * Descrição do Dano  (Slot 1):
+    * Descrição do Dano  (Slot 2):
+* Nível 3 — Penalidade: Nocauteado
+    * Descrição do Dano:
+* Nível 4 — Hora de Morrer.
 
 Ações Especiais
 ===============
