@@ -1,7 +1,9 @@
 ---
-title: Framweork
+title: Framework
 layout: home
-permalink: /framework-pt/
+nav_order: 2
+parent: ptbr-index
+permalink: /ptbr/framework-pt
 ---
 
 CBR+PNK
