@@ -1,6 +1,11 @@
-p.dica, blockquote.dica, p.tip, blockquote.tip { box-shadow: 0!important; }
+p.dica, blockquote.dica, p.tip, blockquote.tip { box-shadow: 0; }
 
-.side-bar, .page-header { background-color: #000; }
+.side-bar, .page-header { 
+    background-image: url();
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
 
 // Print-only styles.
 @media print {
