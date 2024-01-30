@@ -1,4 +1,4 @@
-div { box-shadow: none!important; }
+div, p { box-shadow: none!important; }
 
 .main-content ul > li::before {
     position: absolute;
