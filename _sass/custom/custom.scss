@@ -1,1 +1,13 @@
 p.dica, blockquote.dica { box-shadow: 0!important; }
+
+// Print-only styles.
+@media print {
+    .side-bar,
+    .page-header {
+      display: none;
+    }
+    .main-content {
+      max-width: auto;
+      margin: 1em;
+    }
+  }  
