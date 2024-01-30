@@ -24,8 +24,6 @@ The **GRID** is made up of servers across the globe through which data flows fr
 
 The **GAME MODERATOR (GM)** refers to the game rules to establish a dynamic world around the PCs. They help organize the conversation so it’s pointed toward interesting elements of play.
 
-* * *
-
 {: .content }
 This game touches sensitive topics like racial stigma, class segregation, large-scale disaster, violence and substance abuse. Because of that, it is intended for mature players, with mutual trust and safety tools in place (e.g. the X-card, Lines & Veils and Open Door).
 

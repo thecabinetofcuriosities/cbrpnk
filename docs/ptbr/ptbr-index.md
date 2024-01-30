@@ -22,9 +22,9 @@ O **GRID** é um emaranhado de servidores interconectados ao redor do mundo, po
 
 A **MODERADORA DE JOGO (MJ)** usa as regras do jogo e estabelece um mundo dinâmico ao redor das PJs. Ela ajuda a ordenar a conversação em direção a elementos interessantes de jogo.
 
-* * *
 {: .conteudo }
 Este jogo toca em tópicos sensíveis como estigma racial, segregação de classe, desastres de grande escala e abuso de substâncias. Por conta disso, é direcionado a uma audiência adulta, com respeito e confiança mútuos e ferramentas para uma narrativa segura (Carta X, Linhas e Véus, Porta Aberta)
+
 * * *
 
 Adquira os panfletos em formato digital: [cabinetofcuriosities.games](https://cabinetofcuriosities.games)
