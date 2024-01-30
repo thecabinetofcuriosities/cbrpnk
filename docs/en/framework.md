@@ -10,11 +10,9 @@ permalink: docs/en/framework
 **CBR+PNK**
 # FRAMEWORK
 
-* * *
+—
 
-This brochure presents GM advice, in-depth examples of Consequences, optional rules, and the framework of a campaign mode for CBR+PNK. It isn’t required reading, but it will improve your understanding of the game and provide guidance for running it.
-
-* * *
+_This brochure presents GM advice, in-depth examples of Consequences, optional rules, and the framework of a campaign mode for CBR+PNK. It isn’t required reading, but it will improve your understanding of the game and provide guidance for running it._
 
 Consequence Examples
 ====================
