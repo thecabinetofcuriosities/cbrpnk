@@ -1,3 +1,5 @@
+div { box-shadow: none!important; }
+
 .main-content ul > li::before {
     position: absolute;
     margin-left: -1.4em;
@@ -11,8 +13,6 @@
     color: #959396;
     content: "▹";
 }
-
-* { box-shadow: 0; }
 
 .side-bar, .page-header { 
     background-image: url(https://dl.dropbox.com/scl/fi/l61jclg19v2oxllmu8sr5/cbrpnktxtbg.png?rlkey=5lu7d1l6v4w79b0ypmrdq5fy9);
