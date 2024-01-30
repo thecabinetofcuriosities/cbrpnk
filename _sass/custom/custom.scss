@@ -1,5 +1,7 @@
 p.dica, blockquote.dica, p.tip, blockquote.tip { box-shadow: 0!important; }
 
+.side-bar, .page-header { background-color: #000; }
+
 // Print-only styles.
 @media print {
     .side-bar,

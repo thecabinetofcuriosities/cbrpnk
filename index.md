@@ -1,12 +1,12 @@
 ---
-title: CBR+PNK
+title: CBR+PNK /TXT
 layout: home
 nav_order: 1
 has_children: false
 permalink: /
 ---
 
-# CBR+PNK
+# CBR+PNK /TXT
 
 [Plain Text Core Rules in English](/docs/en/index.md)
 
