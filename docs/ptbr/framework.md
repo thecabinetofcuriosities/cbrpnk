@@ -259,9 +259,3 @@ Resumo das fases do /Corre
 3.  __LOGOFF:__ Jogadoras fazem suas Jogadas de Esquema (Guia de MJ, quadro 7) e descrevem seus epílogos de acordo com o resultado.
 
 * * *
-
-CBR+PNK foi criado por EMANOEL MELO ([cabinetofcuriosities.games](https://cabinetofcuriosities.games)) e publicado pela MYTHWORKS ([myth.works](https://myth.works)).
-
-_Regras para Long-Shot (Campanha) foram adaptadas de Broken Spire, cenário de campanha para Blades in the Dark, de autoria de Sean Nitter._
-
-_Este presente trabalho é baseado em Blades in the Dark, produto da One Seven Design, escrito e desenvolvido por John Harper, e licenciado para uso sob a Creative Commons Attribution 3.0 Unported license._

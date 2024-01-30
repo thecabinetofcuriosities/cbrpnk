@@ -32,3 +32,11 @@ This game touches sensitive topics like racial stigma, class segregation, large-
 Get the brochures in digital format at [emanoelmelo.itch.io/cbrpnk-core](https://emanoelmelo.itch.io/cbrpnk-core)
 
 Get the boxed set at [myth.works](https://myth.works/products/cbr-pnk)
+
+* * *
+
+CBR+PNK created by EMANOEL MELO ( [cabinetofcuriosities.games](https://cabinetofcuriosities.game)) and published by MYTHWORKS ( [myth.works](https://myth.works)).
+
+Long-Shot (Campaign Mode) rules adapted from Sean Nitter’s Broken Spire campaign setting for Blades in the Dark.
+
+This work is based on [Blades in the Dark](https://www.bladesinthedark.com/) , product of One Seven Design, developed and authored by John Harper, and licensed for our use under the [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) license.

@@ -81,7 +81,7 @@ Cada Abordagem gera 0 a 2 dados à Jogada de Ação.
 Habilidades
 ===========
 
-Cada Habilidade gera de 0 a 2 dados à Jogada de Ação. ESPECIALIZAÇÕES (sugeridas depois da Habilidade) não adicionam dados à jogada, mas permitem a troca de 1 dado por uma VANTAGEM—e vice-versa—quando aplicáveis.
+Cada Habilidade gera de 0 a 2 dados à Jogada de Ação. __ESPECIALIZAÇÕES__ (sugeridas depois da Habilidade) não adicionam dados à jogada, mas permitem a troca de 1 dado por uma VANTAGEM—e vice-versa—quando aplicáveis.
 
 *   __Analisar:__ Pessoas, Situações, Informação.
 *   __Atletismo:__ Correr, Parkour, Nadar, Escalar.
@@ -112,9 +112,9 @@ Carga / Equipamento
 
 Durante o Corre você pode declarar ter um equipamento na mão ao marcar ele na sua lista—desde que a quantidade não ultrapasse seu nível de CARGA. Se um Equipamento é esgotado, perdido ou destruído, risque-o da lista.
 
-*   LEVE \[3\]: Se move rápida e despercebidamente.
-*   MÉDIO \[5\]: Parece pronto pra alguma.
-*   PESADO \[7\]: Lerdo, barulhento e muito suspeito.
+*   __LEVE \[3\]:__ Se move rápida e despercebidamente.
+*   __MÉDIO \[5\]:__ Parece pronto pra alguma.
+*   __PESADO \[7\]:__ Lerdo, barulhento e muito suspeito.
 
 Lista de Equipamentos
 ---------------------
@@ -141,7 +141,7 @@ Lista de Equipamentos
 *   PARTES SOBRESSALENTES (1 carga)
 *   CARGA EXTRA (Até 4 cargas)
 
-⚠ Equipamentos e Amplificações são de Nível Médio como padrão. Ao comparar equipamentos entre lados opostos, o modelo de grau mais alto tem uma VANTAGEM. Você pode declarar um FLASHBACK para ter um UPGRADE para um grau maior.
+⚠ Equipamentos e Amplificações são de __Nível Médio__ como padrão. Ao comparar equipamentos entre lados opostos, o modelo de grau mais alto tem uma VANTAGEM. Você pode declarar um FLASHBACK para ter um UPGRADE para um grau maior.
 
 Estresse
 ========
@@ -156,7 +156,7 @@ __SOBRECARREGADA:__ Ao marcar o seu último ESTRESSE, uma Abordagem de sua esco
 *   Você faz o grupo perder uma vantagem.
 *   Você ignora ou danifica algo crucial.
 
-Enquanto SOBRECARREGADA, você não pode realizar ações que requerem marcar Estresse. TOME FÔLEGO para aliviar Estresse e eliminar essa condição.
+Enquanto SOBRECARREGADA, você não pode realizar ações que requerem marcar Estresse. __TOME FÔLEGO__ para aliviar Estresse e eliminar essa condição.
 
 Resistência / Armadura
 ======================
@@ -252,7 +252,3 @@ Reduza o custo de Flashback ao declarar um Recurso, Amplificação ou Upgrade se
 *   Você conseguiu ao fazer um negócio ou promessa. Nomeie seu patrocinador e marque uma __DÍVIDA__.
 
 * * *
-
-CBR+PNK foi criado por EMANOEL MELO ([cabinetofcuriosities.games](https://cabinetofcuriosities.games)) e publicado pela MYTHWORKS ([myth.works](https://myth.works)).
-
-_Este presente trabalho é baseado em Blades in the Dark, produto da One Seven Design, escrito e desenvolvido por John Harper, e licenciado para uso sob a Creative Commons Attribution 3.0 Unported license._

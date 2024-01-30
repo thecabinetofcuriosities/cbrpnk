@@ -106,7 +106,7 @@ Se avaliar que um ou mais lados tem Vantagens em um ou outro aspecto da situaç�
 5.  A jogadora rola seus dados e usa o melhor resultado dentre eles, obtendo o resultado de acordo com a tabela abaixo.
 
 Jogadora e M.J. trabalham juntos para narrar a ação, mas é esta última que tem o dizer final sobre os  resultados e eventuais consequências.
-*   __6,6: Crítico.__ Sucesso completo, ganhe um benefício extra (desvendar um segredo, melhorar sua posição, localizar uma recompensa).
+*   __6,6: Crítico.__ Sucesso completo, ganhe um benefício extra (aumentar o Efeito, desvendar um segredo, melhorar sua posição, localizar uma recompensa).
 *   __6: Sucesso.__ Tudo vai como planejado.
 *   __4/5: Sucesso Parcial.__ Ação é realizada, mas sofra uma consequência.
 *   __1-3: Fracasso.__ Tudo vai mal e nada ocorre como esperado, sofra uma consequência.
@@ -174,7 +174,3 @@ Mas quando um adversário **Habilidoso** age, ele tem algo que almeja conseguir
 Ao tomar a iniciativa, Adversários de **Elite** podem infligir uma Consequência que deve ser resistida antes das Marginais terem chance de agir.
 
 * * *
-
-CBR+PNK foi criado por EMANOEL MELO ([cabinetofcuriosities.games](https://cabinetofcuriosities.games)) e publicado pela MYTHWORKS ([myth.works](https://myth.works)).
-
-_Este presente trabalho é baseado em Blades in the Dark, produto da One Seven Design, escrito e desenvolvido por John Harper, e licenciado para uso sob a Creative Commons Attribution 3.0 Unported license._

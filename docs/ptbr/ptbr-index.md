@@ -28,3 +28,11 @@ Este jogo toca em tópicos sensíveis como estigma racial, segregação de class
 * * *
 
 Adquira os panfletos em formato digital: [cabinetofcuriosities.games](https://cabinetofcuriosities.games)
+
+* * *
+
+CBR+PNK foi criado por EMANOEL MELO ([cabinetofcuriosities.games](https://cabinetofcuriosities.games)) e publicado pela MYTHWORKS ([myth.works](https://myth.works)).
+
+_Regras para Long-Shot (Modo Campanha) foram adaptadas de Broken Spire, cenário de campanha para Blades in the Dark, de autoria de Sean Nitter._
+
+_Este presente trabalho é baseado em Blades in the Dark, produto da One Seven Design, escrito e desenvolvido por John Harper, e licenciado para uso sob a Creative Commons Attribution 3.0 Unported license._
