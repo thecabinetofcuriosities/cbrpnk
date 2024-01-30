@@ -10,6 +10,8 @@ permalink: docs/en/gmguide
 **CBR+PNK**
 # GAME MODERATOR'S GUIDE
 
+—
+
 Game Moderator Protocols
 ========================
 
