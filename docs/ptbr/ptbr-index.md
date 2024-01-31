@@ -35,4 +35,6 @@ CBR+PNK foi criado por EMANOEL MELO ([cabinetofcuriosities.games](https://cabin
 
 _Regras para Long-Shot (Modo Campanha) foram adaptadas de Broken Spire, cenário de campanha para Blades in the Dark, de autoria de Sean Nitter._
 
+ADAPTAÇÃO BRASILEIRA por Vitor B J Mattos (Maik)
+
 _Este presente trabalho é baseado em Blades in the Dark, produto da One Seven Design, escrito e desenvolvido por John Harper, e licenciado para uso sob a Creative Commons Attribution 3.0 Unported license._
