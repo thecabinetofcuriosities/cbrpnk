@@ -67,6 +67,10 @@ callouts:
 gems:
   - jekyll-pdf
 
+plugins:
+  - jekyll-pdf
+  - jekyll-sitemap
+
 defaults:
   -
     scope:
