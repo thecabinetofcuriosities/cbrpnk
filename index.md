@@ -11,3 +11,5 @@ permalink: /
 [Plain Text Core Rules in English](/docs/en/index.md)
 
 <!--- [Texto Simples das Regras Base em Português Brasileiro](/docs/ptbr/ptbr-index.md) --->
+
+[Generate PDF]({{ page.pdf_url }})
