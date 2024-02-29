@@ -72,7 +72,7 @@ GEM
       unicode-display_width (>= 1.1.1, < 3)
     unicode-display_width (2.5.0)
     webrick (1.8.1)
-    jekyll-pdf (= 0.1.7)
+    jekyll-pdf (~> 0.1.7)
 
 PLATFORMS
   arm64-darwin-23
@@ -81,7 +81,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3.3)
   just-the-docs (= 0.7.0)
-  jekyll-pdf (= 0.1.7)
+  jekyll-pdf (~> 0.1.7)
 
 BUNDLED WITH
    2.3.26

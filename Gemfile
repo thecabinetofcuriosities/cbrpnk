@@ -8,4 +8,4 @@ gem "just-the-docs", "0.7.0" # pinned to the current release
 
 gem "jekyll-sitemap"
 
-gem "jekyll-pdf"
+gem 'jekyll-pdf', '~> 0.1.7'
