@@ -8,7 +8,7 @@ permalink: /
 
 # CBR+PNK /TXT
 
-[Plain Text Core Rules in English](/docs/en/index.md)
+[Plain Text Core Rules in English](/docs/en/index)
 
 [Generate PDF]({{ site.url }})
 PDF here {{ page.pdf_url }}
