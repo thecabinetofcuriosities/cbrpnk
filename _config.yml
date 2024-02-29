@@ -63,3 +63,14 @@ callouts:
   conteudo:
     title: Alerta de Conteúdo
     color: yellow
+
+gems:
+  - jekyll-pdf
+  
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      pdf: true
