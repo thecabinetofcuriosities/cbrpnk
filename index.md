@@ -10,7 +10,7 @@ permalink: /
 
 [Plain Text Core Rules in English](/docs/en/index)
 
-[Generate PDF]({{ site.url }})
+[Generate PDF](/download/test.pdf){{ site.url }}
 PDF here {{ page.pdf_url }}
 
 <!--- [Texto Simples das Regras Base em Português Brasileiro](/docs/ptbr/ptbr-index.md) --->
