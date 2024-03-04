@@ -29,9 +29,11 @@ This game touches sensitive topics like racial stigma, class segregation, large-
 
 * * *
 
+Get the boxed set at [myth.works](https://myth.works/products/cbr-pnk)
+
 Get the brochures in digital format at [emanoelmelo.itch.io/cbrpnk-core](https://emanoelmelo.itch.io/cbrpnk-core)
 
-Get the boxed set at [myth.works](https://myth.works/products/cbr-pnk)
+[Download the Plain Text Core Rules as zipped PDFs]({{site.url}}download/CBRPNK_PlainText.zip)
 
 * * *
 

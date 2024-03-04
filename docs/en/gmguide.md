@@ -174,4 +174,4 @@ By taking the initiative, when **Elite** adversaries act they can inflict a Cons
 
 * * *
 
-[Click here to download the GM Guide as PDF]({{site.url}}/download/CBRPNK_Core_Rules_PlainText.pdf)
+[Click here to download the GM Guide as PDF]({{site.url}}download/CBRPNK_Core_Rules_PlainText.pdf)

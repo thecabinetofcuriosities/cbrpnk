@@ -253,3 +253,5 @@ __ENVIRONMENTAL ISSUE__
 *   __LOGOFF:__ Players make their Angle Roll (GM Guide panel 7) and convey their epilogue based on the outcome.
 
 * * *
+
+[Click here to download Framework as PDF]({{site.url}}download/CBRPNK_Framework_PlainText.pdf)

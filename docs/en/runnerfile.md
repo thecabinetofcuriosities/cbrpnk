@@ -255,3 +255,7 @@ Reduce the Flashback’s cost when declaring an Asset, Augmentation, or Upgrade 
 * It is unstable or damaged beyond repair (e.g., an obsolete augmentation, corrupted program, makeshift weapon). Mark it as __GLITCHED__.
 * It was never really paid for and now you are being __HUNTED__. Who sent them after you and what for? Whenever you attract unwanted attention, it may be their Hunter pinning you down.
 * You’ve made a promise or cut a deal. Name your patron/sponsor and mark a __DEBT__.
+
+* * *
+
+[Click here to download the Runner File as PDF]({{site.url}}download/CBRPNK_Runner_File_PlainText.pdf)

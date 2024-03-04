@@ -40,6 +40,10 @@ Long-Shot (Campaign Mode) rules adapted from Sean Nitter’s Broken Spire campai
 
 This work is based on [Blades in the Dark](https://www.bladesinthedark.com/) , product of One Seven Design, developed and authored by John Harper, and licensed for our use under the [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) license.
 
-[Plain Text Core Rules in English](/docs/en/index)
+* * *
+
+[Read the Plain Text Core Rules in English](/docs/en/index)
+
+[Download the Plain Text Core Rules as zipped PDFs]({{site.url}}download/CBRPNK_PlainText.zip)
 
 <!--- [Texto Simples das Regras Base em Português Brasileiro](/docs/ptbr/ptbr-index.md) --->
