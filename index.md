@@ -42,7 +42,4 @@ This work is based on [Blades in the Dark](https://www.bladesinthedark.com/) , p
 
 [Plain Text Core Rules in English](/docs/en/index)
 
-[Generate PDF](/download/test.pdf){{ site.url }}
-PDF here {{ page.pdf_url }}
-
 <!--- [Texto Simples das Regras Base em Português Brasileiro](/docs/ptbr/ptbr-index.md) --->
