@@ -173,3 +173,5 @@ When **Skilled** adversaries act, they are about to accomplish something. How th
 By taking the initiative, when **Elite** adversaries act they can inflict a Consequence that must be Resisted before the Runners also have a chance to act.
 
 * * *
+
+[Click here to download the GM Guide as PDF]({site.url/download/CBRPNK_Core_Rules_PlainText.pdf})
