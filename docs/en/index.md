@@ -9,7 +9,7 @@ permalink: docs/en/index
 
 # CBR+PNK 
 
-## Plain Text Core Rules in English
+## Plain Text Core Rules
 _v1.5 March 2023_
 
 **CBR+PNK IS A FORGED IN THE DARK GAME FOR ONE-SHOT SESSIONS OF CINEMATIC CYBERPUNK ACTION.**
