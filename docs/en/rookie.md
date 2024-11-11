@@ -8,7 +8,7 @@ permalink: docs/en/rookie
 ---
 
 **CBR+PNK**
-# ROOKIE
+# ROOKIE (/Plugin)
 
 How to Use
 ==========
