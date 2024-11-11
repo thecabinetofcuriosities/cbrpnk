@@ -44,13 +44,21 @@ Tick a box whenever you feel it’s the right time to trigger a Beat. Some of th
 When all boxes are ticked, the Rookie graduates after the following Angle Roll – the amount of Beats you trigger each session determines how fast that happens.
 
 [2 Ticks] Start a /Run with 2 marked Stress, regardless of how you ended the previous.
+
 [2 Ticks] Gear Restrictions: your network is not quite build up yet. Upgrades and Assets cost an extra Stress to declare. *Tip: pick up Drawbacks like Debt or Hunted in order to cut Stress costs.*
+
 [2 Ticks] Endanger the crew by making a rookie mistake (examples below).
+
 [2 Ticks] Assist a Runner on a challenge clearly above your level with a Skill you don’t have dice on.
+
 [1 Tick] Mark Special Resistance to avoid any type of Consequence by sheer luck.
+
 [1 Tick] A Runner gets +1D to Resist when Protecting you from a Consequence.
+
 [1 Tick] Take Harm of Level 2 or greater when Protecting a crew mate.
+
 [1 Tick] When you Overload, instead of marking an Approach as Glitched, gain +1 to any Approach.
+
 [1 Tick] Learn a harsh truth about the Runner life.
 
 Rookie Mistakes
