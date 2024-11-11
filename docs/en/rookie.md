@@ -1,7 +1,7 @@
 ---
-title: Rookie
+title: Rookie (Plugin)
 layout: home
-nav_order: 2
+nav_order: 4
 language: en
 parent: English
 permalink: docs/en/rookie
