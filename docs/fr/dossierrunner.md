@@ -1,10 +1,10 @@
 ---
-title: Fichier du Joueur
+title: Dossier du Runner
 layout: home
 nav_order: 2
 language: fr
 parent: Français
-permalink: docs/fr/fichierjoueur
+permalink: docs/fr/fichierrunner
 ---
 
 **CBR+PNK**
@@ -13,54 +13,54 @@ permalink: docs/fr/fichierjoueur
 —
 
 {: .tip }
-Fichier Runner Google Spreadsheets pour le jeu virtuel disponible à l'adresse suivante : [CBRPNK Augmented Runner Files](https://docs.google.com/spreadsheets/d/1pJVDX_LFTUAykIb0rzIGRbysn_p9R3qzvkk7MjuyCU0/template/preview)
+Le dossier du Runner au format Google Spreadsheets est disponible à l'adresse suivante : [CBRPNK Augmented Runner Files](https://docs.google.com/spreadsheets/d/1pJVDX_LFTUAykIb0rzIGRbysn_p9R3qzvkk7MjuyCU0/template/preview)
 
-Protocoles des joueurs
-================
+La charte du joueur
+======================
 
 * Embrassez la vie cyberpunk.
-* Allez au-devant du danger, tombez amoureux des ennuis.
+* Foncez vers le danger, les ennuis sont vos amis.
 * Utilisez votre Stress (Pousser, Assister, Résister).
 * Agissez maintenant, planifiez (avec des flashbacks) plus tard.
-* Construisez votre personnage par le jeu.
-* Posez des questions en cas de doute, pour renforcer les circonstances fictives ou simplement pour satisfaire votre curiosité.
+* Construisez votre personnage au fil de la partie.
+* Posez des questions en cas de doute, pour renforcer la fiction ou simplement pour satisfaire votre curiosité.
 * Prendre des responsabilités en tant que co-auteur du jeu avec le modérateur du jeu.
 * Jouer pour découvrir ce qui se passe.
 
-Déposer un Runner
-=============
+Créer un Runner
+===============
 
-1. Saisissez un Handle - c'est ainsi que l'on vous appelle sur la Grille et dans la rue.
-2. Entrez quelques mots évocateurs pour décrire votre look.
-3. Vous risquez tout pour une raison. Qu'est-ce que vous y gagnez ? Choisissez un Angle et détaillez-le brièvement.
-4. Attribuez 2, 1 et 1, dans n'importe quel ordre, à trois de vos approches.
-5. Répartissez 8 dés sur vos Compétences. Pour attribuer une compétence, dépensez un troisième dé sur une compétence particulière - choisissez ou notez la compétence de côté.
-6. Les modifications corporelles de tous types - cybernétique, biotechnologie et autres - sont largement adoptées par les coureurs. Définissez votre **Signature Augmentation** de départ en écrivant son modèle/marque et un aperçu de sa caractéristique principale, par exemple, Ashide™ Racing Legs. Lorsque vous entreprenez une action ou que vous résistez à des conséquences, vous pouvez marquer 1 Stress ou Résistance Spéciale pour y intégrer votre Augmentation. Pendant la Course, vous pouvez déclarer des Augmentations supplémentaires ou des fonctionnalités supplémentaires de celles existantes en tant qu'AMÉLIORATIONS (panneau 8).
-7. Ne choisissez pas encore votre équipement - vous déciderez de ce que vous portez à la volée pendant la Course. Pour l'instant, entourez sur la liste ceux qui vous intéressent, afin de pouvoir vous y référer plus tard.
+1. Saisis un Blase, c'est ainsi que l'on t'appelle sur la Grille et dans la rue.
+2. Décris ton look en quelques mots marquants.
+3. Tu risques tout pour une raison. Qu'est-ce que tu y gagnes ? Choisis une Cause et détailles-la brièvement.
+4. Attribues 2, 1 et 1, dans n'importe quel ordre, à trois de tes Approches.
+5. Répartis 8 dés sur tes Compétences. Pour attribuer une compétence, dépenses un troisième dé sur une compétence particulière - choisis ou notes la compétence mis de côté.
+6. Les modifications corporelles de tous types - cybernétique, biotechnologie et autres - sont largement adoptées par les Runners. Définiss ton **Augmentation Fétiche** de départ en écrivant son modèle/marque et un aperçu de sa caractéristique principale, par exemple, Jambes de compétition Ashide™. Lorsque tu entreprens une action ou que tu résistes à des conséquences, tu peux marquer 1 Stress ou 1 Résistance Spéciale pour y intégrer ton Augmentation. Pendant la Dernier Boulot, tu peux déclarer des Augmentations supplémentaires ou des fonctionnalités supplémentaires de celles existantes en tant qu'AMÉLIORATIONS (volet 8).
+7. Ne choisis pas encore ton équipement - tu décideras de ce que tu portes à la volée pendant le Dernier Boulot. Pour l'instant, entoures sur ta liste ceux qui t'intéressent, afin de pouvoir t'y référer plus tard.
 
-ID du coureur
-=========
+ID du Runner
+============
 
-__HANDLE \[PRONOUNS\]:__
+__BLASE \[PRONOMS\]:__
 
-CASE À COCHER __HUNTED__
+CASE À COCHER __RECHERCHÉ__
 
 __LOOK:__
 
-__ANGLE__ - Expliquez pourquoi vous courez en fin de compte :
+__CAUSE__ - Expliquez pourquoi vous avez accepter ce Dernier Boulot en fin de compte :
 
-* Sortir
+* Se sortir de là
 * Les faire payer
-* S'occuper d'eux
-* Améliorer la vie
+* Prendre soin d'eux
+* Améliorer son existence
 * Apprendre la vérité
 * Prendre position
 
-DÉTAILS DE L'ANGLE:__
+DÉTAILS DE LA CAUSE:__
 
-__DEBT:__ 0 à 3
+__DETT:__ 0 à 3
 
-CRED:__ 0 à 3
+__CRÉD:__ 0 à 3
 
 Approches
 ==========
@@ -69,32 +69,32 @@ Chaque approche apporte de 0 à 2 dés au jet d'action.
 
 * __AGRESSIF__
     * Force, Intimidation, Destruction.
-    * GLITCHED : Hésitation
-* __SMART__
+    * DÉFAILLANCE : Hésitation
+* __MALIN__
     * Créativité, Ruse, Perception.
-    * GLITCHED : Désorientation
-* __EMPATHIC__
-    * Charisme, leadership, diplomatie.
-    * GLITCHED : Apathie
-* __STEALTHY__
+    * DÉFAILLANCE : Désorientation
+* __EMPATHIE__
+    * Charisme, meneur, diplomatie.
+    * DÉFAILLANCE : Apathie
+* __DISCRET__
     * Discrétion, subterfuge, secret.
-    * GLITCHED : Insouciance
+    * DÉFAILLANCE : Insouciance
 
 Compétences
-=====
+===========
 
-Chaque compétence apporte de 0 à 2 dés au jet d'action. Les __EXPERTISES__ (suggérées après la compétence) n'ajoutent pas de dé au jet, mais vous permettent d'échanger 1 dé contre un EDGE - et vice-versa - lorsqu'elles sont applicables.
+Chaque compétence apporte de 0 à 2 dés au jet d'action. Les __EXPERTISES__ (suggérées par la compétence) n'ajoutent pas de dé au jet, mais te permettent d'échanger 1 dé contre un AVANTAGE - et vice-versa - lorsqu'elles sont applicables.
 
-* __Analyse:__ Personnes, Situation, Information.
-* Athlétisme : Sprint, Parkour, Natation, Escalade.
-* __Combat rapproché:__ Bagarre, Arme.
-* __Codage:__ Hack, Compile, Mine, Scramble.
-* __Influence:__ Performer, Négocier, Intimider.
-* Pilotage : Voitures, motos, hélicoptères, drones.
-* Combat à distance : Pistolet, Fusil, SMG, Lancer.
-* __Rigging:__ Electronics, Robotics, Heavy M.
-* __Sciences : __ Biotechnologie, Physique, Chimie.
-* __Savoir-faire : __ Politique, Marché, Navigation.
+* __Analyse :__ Personnes, Situation, Information.
+* __Athlétisme__ : Course, Parkour, Natation, Escalade.
+* __Combat rapproché :__ Bagarre, Armes.
+* __Codage :__ Hack, Compiler, Recherche, chiffrement.
+* __Influence :__ Performer, Négocier, Intimider.
+* __Pilotage :__ Voitures, motos, hélicoptères, drones.
+* __Combat à distance :__ Pistolet, Fusil, PM, Lancer.
+* __Ingénierie :__ Electronique, Robotique, Machine lourde.
+* __Sciences :__ Biotechnologie, Physique, Chimie.
+* __Savoir-faire :__ Politique, Marché, se répérer.
 * __Attune △:__ Esprits, Artéfacts, Lieux.
 
 △ Reportez-vous au plugin +Weird pour en savoir plus sur cette compétence.
@@ -107,10 +107,10 @@ Augmentations
 
 NOM DE L'AUGMENTATION
 
-CASE À COCHER __GLITCHED__
+CASE À COCHER __DÉFAILLANCE__
 
 Charge / Matériel
-===========
+=================
 
 Pendant le Run, vous pouvez déclarer votre équipement en le marquant sur votre liste, jusqu'à un nombre d'objets égal à votre niveau de CHARGE. Si un objet est épuisé, détruit ou perdu, rayez-le de la liste.
 

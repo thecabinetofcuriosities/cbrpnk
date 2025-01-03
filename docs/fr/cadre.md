@@ -8,250 +8,254 @@ permalink: docs/fr/cadre
 ---
 
 **CBR+PNK**
-# FRAMEWORK
+# CADRE
 
 —
 
-_This brochure presents GM advice, in-depth examples of Consequences, optional rules, and the framework of a campaign mode for CBR+PNK. It isn’t required reading, but it will improve your understanding of the game and provide guidance for running it._
+_Cette brochure présente des conseils aux MJ, des exemples approfondis de conséquences, des règles optionnelles et le cadre d'un mode campagne pour CBR+PNK. Il ne s'agit pas d'une lecture obligatoire, mais elle améliorera votre compréhension du jeu et vous fournira des conseils pour le mener à bien._
 
-Consequence Examples
-====================
+Exemples de conséquences
+========================
 
-The following presents a series of Consequence examples in the context of the severity determined by the fiction and/or Threat Level. Generally, a Consequence of Level 1 is a minor inconvenience, Level 2 is a distressing setback, Level 3 is a dire turn. A Consequence of Level 4 is more commonly inflicted as lethal Harm, but you can always break it down into multiple lesser Consequences.
+Les paragraphes suivants présentent une série d'exemples de conséquences dans le contexte de la gravité déterminée par le niveau de fiction et/ou de menace. En général, une conséquence de niveau 1 est un inconvénient mineur, le niveau 2 est un revers pénible, le niveau 3 est un tournant désastreux. Une conséquence de niveau 4 est plus souvent infligée sous la forme d'une blessure mortelle, mais vous pouvez toujours la décomposer en plusieurs conséquences moindres.
 
-Reduced Effect
---------------
-
-Performance is reduced. Use this type on a Partial Success.
-
-Mark 1 less segment on a Progress Track, reach only halfway across, fall short on the amount needed, acquires an asset of lesser quality, satisfies only part of the audience, transmits incomplete information.
-
-Harm
-----
-
-*   \[LEVEL 1\] Superficial—Dazed, Bleeding, Battered, Confused, Lagging.
-*   \[LEVEL 2\] Serious—Sensory Deprived, Deeply Cut, Drained, Panicking, Low Morale, Concussed.
-*   \[LEVEL 3\] Incapacitating—Impaled, Broken Bones, Badly Burned, Terrified.
-*   \[LEVEL 4\] Lethal—Compromised Vital Organ, Loss of a Limb, Core Wiped, Electrocuted, Drowned.
-
-Threat Escalation
------------------
-
-Loss of control resulting in Increased Threat. Use this type on a Failure.
-
-Runner is outnumbered, gets exposed, loses a safeguard.
-
-Complication
+Effet réduit
 ------------
 
-Introduces trouble, increasing danger, or telegraphs a new threat.
+Les performances sont réduites. Utilisez ce type sur une réussite partielle.
 
-*   \[LEVEL 1\] Suspicions aroused, asset wears off (e.g., ammo depletes, device runs out of power), signs that the obstacle will improve, the environment becomes troublesome, options narrow, mark 1 segment on a Progress Track.
-*   \[LEVEL 2\] Unwanted attention, asset displaced or damaged (e.g., disarmed, cyberware glitches), trapped, collateral damage, the obstacle improves, the environment becomes oppressive, mark 2 segments on a Progress Track.
-*   \[LEVEL 3\] Imprisoned, compromised reputation, crucial asset destroyed, critical collateral damage, the obstacle greatly improves, the environment becomes life-threatening, mark 3 segments on a Progress Track.
+Marquer 1 segment de moins sur une piste de progression, n'atteindre que la moitié du chemin, ne pas atteindre la quantité nécessaire, acquérir un bien de moindre qualité, ne satisfaire qu'une partie de l'audience, transmettre une information incomplète.
 
-Lost Opportunity
+
+Dégats
+-----
+
+*   \[NIVEAU 1\] Superficiel - étourdi, saignant, battu, confus, à la traîne.
+*   \[NIVEAU 2\] Sérieux - Privé de sens, profondément coupé, vidé, paniqué, moral bas, commotionné.
+*   \[NIVEAU 3\] Incapacitating-Impaled, Broken Bones, Badly Burned, Terrified.
+*   \[NIVEAU 4\] Létal - Organe vital compromis, perte d'un membre, cœur détruit, électrocuté, noyé.
+
+Escalade de la Menace
+---------------------
+
+Perte de contrôle entraînant une augmentation de la menace. Utiliser ce type sur un échec.
+
+Le coureur est en infériorité numérique, s'expose, perd une protection.
+
+Complications
+-------------
+
+Introduit des problèmes, augmente le danger ou annonce une nouvelle menace.
+
+*   \[NIVEAU 1\] Les soupçons sont éveillés, l'atout s'épuise (par exemple, les munitions s'épuisent, l'appareil n'a plus d'énergie), des signes indiquent que l'obstacle va s'améliorer, l'environnement devient gênant, les options se réduisent, marquer 1 segment sur une piste de progression.
+*   \[NIVEAU 2\] Attention non désirée, bien déplacé ou endommagé (par exemple, désarmé, dysfonctionnement du cyberware), piégé, dommages collatéraux, l'obstacle s'améliore, l'environnement devient oppressant, marquer 2 segments sur une échelle de progression.
+*   \[NIVEAU 3\] Emprisonné, réputation compromise, bien essentiel détruit, dommages collatéraux critiques, l'obstacle s'améliore considérablement, l'environnement devient menaçant, marquer 3 segments sur une piste de progression.
+
+Occasion perdue
 ----------------
 
 A new approach is required. Use this type exclusively on a Failure.
 
-*   \[LEVEL 1\] Target changes course, informant leaves, the deal has changed, the distraction has passed.
-*   \[LEVEL 2\] Target obstructed, window closes, escape route is compromised, a critical ally has a change of heart.
-*   \[LEVEL 3\] Target out of reach, contact is lost, an indispensable asset is destroyed.
+*   \[NIVEAU 1\] La cible change de cap, l'informateur s'en va, l'accord a changé, la distraction est passée.
+*   \[NIVEAU 2\] La cible est obstruée, la fenêtre se ferme, l'issue de secours est compromise, un allié important change d'avis.
+*   \[NIVEAU 3\] Cible hors de portée, le contact est perdu, un atout indispensable est détruit.
 
-Game Moderator Advice
-=====================
 
-*   Action is always considered from the Player Character’s perspective.
-*   Don’t inflict a Consequence that negates the outcome of a roll.
-*   Start/tick a Progress Track whenever it feels right. Make sure they are visible so everyone can keep track of what is happening in the fiction.
-*   Give each NPC (Non-Player Character) or Faction a concrete goal and preferred approach.
-*   Don’t say “no”, just make it more complicated, riskier, costly, etc.
-*   Prioritize Difficult Choices over Difficult Tasks.
-*   When in doubt, you can safely skip over steps 2 and 3 of the Action Roll—assume the standard Level 2 for both Threat and Effect.
-*   Have the OPERATOR frequently check in for status updates to evoke a sense of urgency.
-*   For a grittier game, make RESISTANCE and ARMOR reduce the severity of most Consequences instead of avoiding them entirely.
+Conseils au modérateur de jeu
+=============================
 
-SAMPLE THREATS
---------------
+* L'action est toujours considérée du point de vue du personnage joueur.
+* N'infligez pas de conséquence qui annule le résultat d'un jet.
+* Lancez ou cochez une piste de progression chaque fois que cela vous semble approprié. Veillez à ce qu'ils soient visibles afin que tout le monde puisse suivre ce qui se passe dans la fiction.
+* Donnez à chaque PNJ (personnage non joueur) ou à chaque faction un objectif concret et une approche préférée.
+* Ne dites pas « non », mais rendez les choses plus compliquées, plus risquées, plus coûteuses, etc.
+* Donnez la priorité aux choix difficiles plutôt qu'aux tâches difficiles.
+* En cas de doute, vous pouvez ignorer les étapes 2 et 3 du jet d'action - supposez le niveau standard 2 pour la menace et l'effet.
+* Demandez à l'OPÉRATEUR de vérifier fréquemment l'état de la situation pour évoquer un sentiment d'urgence.
+* Pour un jeu plus dur, faites en sorte que la RÉSISTANCE et l'ARMEUR réduisent la gravité de la plupart des conséquences au lieu de les éviter complètement
 
-*   __Burnt Pistons__ (6 segments): A small gang armed with pistols & an SMG.
-*   __Corpsecurity__ (6 segments): A few detachments. Riot armor, pistols, and rifles.
-*   __Poisn__ (6 segments): Skilled hacker with a neural-linked defensive deck and light weaponry.
-*   __Taskforce™__ (6 segments): Paramilitary elite squad. Heavy armor and weaponry. Loads of enhancements.
-*   __Dozer__ (8 segments): Bipedal drone enforcer. Heavily armored, machine guns arms.
-*   __Artemisia-I:__ Basic Network.
-    *   __Defender__ (6 segments): Active firewall, traces and blocks intruders, deploys an I.C.P.
-        *   __Encryption__ (4 segments): Cloaks local database.
-    *   __I.C.P.__ (4 segments): Intrusion Countermeasure Protocol, attacks the brain directly.
+EXEMPLES DE MENACES
+-------------------
 
-Long Shot (Campaign Mode)
+* __Burnt Pistons__ (6 segments) : Un petit gang armé de pistolets et d'un SMG.
+* __Corpsecurity__ (6 segments) : Quelques détachements. Armures anti-émeutes, pistolets et fusils.
+* __Poisn__ (6 segments) : Hacker qualifié avec un deck défensif à liaison neuronale et des armes légères.
+* __Taskforce™__ (6 segments) : Escouade d'élite paramilitaire. Armure et armement lourds. Nombreuses améliorations.
+* __Dozer__ (8 segments) : Drone exécutant bipède. Fortement blindé, mitrailleuses, armes.
+* __Artemisia-I:__ Réseau de base.
+    * __Defender__ (6 segments) : Pare-feu actif, traque et bloque les intrus, déploie un I.C.P.
+        * __Encryption__ (4 segments) : Masque la base de données locale.
+    * __I.C.P.__ (4 segments) : Protocole de contre-mesure d'intrusion, attaque directement le cerveau.
+
+Long Shot (Mode Campagne)
 =========================
 
 Supports 4—8 sessions / 3—5 players (GM included).
 
 In this mode for short campaigns, PCs are working against an Oppressor and/or towards a cause—overthrowing an authoritarian state, dismantling a human trafficking network, leading a group of refugees through hostile territory. Through Flashback Runs, we find out what the runners have sacrificed to prepare for facing their Oppressor.
 
-Setting Up
+SMise en place
 ----------
 
-1.  Select the OPPRESSOR and a TARGET—a person, location, object that’s the focus of the Run. The OPPRESSOR also has COUNTERMEASURES in place—major actions they (or their supporters) will take to hinder the runners.
-2.  Determine the PC’s shared Angle—each may also have their own reason for such:
-    *   __TAKE DOWN THE OPPRESSOR__
-        *   What lies do they tell to keep themselves at the top?
-        *   Who will you trust to take their place?
-    *   __RESIST THE OPPRESSOR__
-        *   What are they trying to seize/destroy—basic rights; unique resources; your culture?
-        *   How will you make sure they won’t keep coming back?
-    *   __LIBERATE FROM THE OPPRESSOR__
-        *   Who/what are you liberating—your community; nation; crucial resource?
-        *   What will you do to sever their hold indefinitely?
+1.  Sélectionnez l'OPPRESSEUR et une CIBLE - une personne, un lieu, un objet qui est au centre de la Course. L'OPPRESSEUR a également mis en place des CONTRE-MESURES, c'est-à-dire les principales actions qu'il (ou ses partisans) entreprendra pour gêner les coureurs.
+2.  Déterminez l'Angle partagé par les PJ - chacun peut également avoir sa propre raison pour cela :
+    * __FAIRE TOMBER L'OPPRESSEUR__
+        * Quels mensonges racontent-ils pour se maintenir au sommet ?
+        * A qui ferez-vous confiance pour prendre sa place ?
+    * __RÉSISTER À L'OPPRESSEUR__
+        * Qu'essaient-ils de saisir/détruire - les droits fondamentaux, les ressources uniques, votre culture ?
+        * Comment vous assurerez-vous qu'ils ne reviendront pas ?
+    * __LIBÉRER DE L'OPPRESSEUR__
+        * Qui/quoi libérez-vous - votre communauté, votre nation, une ressource cruciale ?
+        * Que ferez-vous pour mettre fin à leur emprise indéfiniment ?
 
-How they put their Angle into action is determined by their ENGAGEMENT PLAN. As a group, elaborate in further detail what the OPPRESSOR is about and how they operate. This will provide valuable information for the players to make more conscious choices about their plan.
+La manière dont ils mettent leur Angle en action est déterminée par leur PLAN D'ENGAGEMENT. En groupe, élaborez plus en détail ce qu'est l'OPPRESSEUR et comment il opère. Cela fournira des informations précieuses aux joueurs pour qu'ils fassent des choix plus conscients concernant leur plan.
 
-Campaign structure
-------------------
 
-1.  The game starts at the __CLIMAX__: the GM describes the situation wherein the runners are about to set off their endgame. They only have one shot at this, what is their ENGAGEMENT PLAN? Will they hack their way into the mainframe to wipe out the Authority’s AI? Employ guerrilla tactics to fend off the enforcers? Infiltrate the facility to assassinate the CEO?
-2.  The GM describes to the Players how the __OPPRESSOR’s COUNTERMEASURES__ get in their way. Each COUNTERMEASURE must be dealt with before the Runners can proceed—as if they are Consequences from an Elite adversary (GM Guide, panel 6). Players decide which one they will OVERCOME first and go from there.
-3.  To OVERCOME a COUNTERMEASURE, play out a __Flashback__ as a full-length Run wherein the team prepare to deal with it as they see fit. The Stress cost of each Flashback is determined normally and marked permanently on one of the PC’s files. Skip the Angle Roll on each of these Runs.
-4.  When all COUNTERMEASURES are addressed the Runners can finally act on their plan. The GM cuts back to the CLIMAX—play it out as a scene, with a couple of rolls, or as a full-length session.
-5.  Wrap it up with the __AFTERMATH PHASE__.
+Structurer une campagne
+-----------------------
 
-Downtime Phase
+1.  La partie commence au __CLIMAX__ : le MJ décrit la situation dans laquelle les coureurs sont sur le point de déclencher leur fin de partie. Ils n'ont qu'une seule chance, quel est leur PLAN D'ENGAGEMENT ? Vont-ils s'introduire dans l'ordinateur central pour détruire l'IA de l'Autorité ? Employer des tactiques de guérilla pour repousser les hommes de main ? S'infiltrer dans les locaux pour assassiner le PDG ?
+2.  Le MJ décrit aux joueurs comment les CONTRE-MESURES de l'__OPPRESSEUR__ se mettent en travers de leur chemin. Chaque CONTRE-MESURE doit être traitée avant que les Coureurs puissent continuer - comme s'il s'agissait des conséquences d'un adversaire d'élite (Guide du MJ, panneau 6). Les joueurs décident laquelle ils vont VAINCRE en premier et continuent à partir de là.
+3.  Pour VAINCRE une CONTRE-MESURE, jouez un __Flashback__ comme une Course complète dans laquelle l'équipe se prépare à y faire face comme elle l'entend. Le coût en Stress de chaque Flashback est déterminé normalement et marqué de façon permanente sur la fiche d'un PC. Sautez le jet d'angle pour chacune de ces Manches.
+4.  Lorsque toutes les CONTRE-MESURES ont été prises en compte, les Coureurs peuvent enfin mettre leur plan à exécution. Le MJ revient au CLIMAX - il peut le jouer comme une scène, avec quelques jets de dé, ou comme une session complète.
+5.  Terminez par la __PHASE DE L'APRÈS-MAÎTRE__.
+
+Phase de repos
 --------------
 
-Between Runs, PCs automatically clear all marked Gear and Special Resistances. Additionally, each has time and creds for two Downtime activities:
+Entre les manches, les PJs effacent automatiquement tous les équipements marqués et les résistances spéciales. De plus, chacun dispose de temps et de crédits pour deux activités de temps mort :
 
-*   __RECOVER:__ Clear all Stress or bring all Harm down 1 Level; What do you do to get better?
-*   __REPAIR:__ A gear or augment; Who has your tech covered?
-*   __SIDE PROJECT:__ Can cover a wide variety of activities the players don’t feel excited enough about to tackle as full Runs—doing research into a dataset, investigating someone, paying off a DEBT, establishing a new contact, training new Skills, etc. The GM sets a Progress Track based on the complexity and resource availability. Whenever working on the project, the player describes what their character does to advance its track and make an Action Roll. Tick segments according to the result: __1-3__, one tick—__4/5__, two ticks—__6__, three ticks—__CRITICAL__, five ticks.
+* __RECOVER:__ Éliminer tout le stress ou faire baisser tous les dommages d'un niveau ; que faites-vous pour vous améliorer ?
+* __REPAIR:__ Un équipement ou une augmentation ; Qui a votre technologie couverte ?
+* __PROJET SECONDAIRE:__ Peut couvrir une grande variété d'activités pour lesquelles les joueurs ne se sentent pas assez enthousiastes pour s'y atteler dans le cadre d'une course complète - faire des recherches sur un ensemble de données, enquêter sur quelqu'un, rembourser une dette, établir un nouveau contact, s'entraîner à de nouvelles compétences, etc. Le MJ définit un calendrier de progression en fonction de la complexité du projet et des ressources disponibles. Chaque fois qu'il travaille sur un projet, le joueur décrit ce que son personnage fait pour avancer sur la piste et effectue un jet d'action. Il coche les segments en fonction du résultat : __1-3__, une coche __4/5__, deux coches __6__, trois coches __CRITIQUE__, cinq coches.
 
-Aftermath Phase
+Phase d'après-coup
 ---------------
 
-Whether they defeat the OPPRESSOR or die trying, change has been brought to the world. What new challenges arise? What is left of them, their supporters, and their community?
+Qu'ils vainquent l'OPPRESSEUR ou qu'ils meurent en essayant, le monde a changé. Quels sont les nouveaux défis à relever ? Que reste-t-il d'eux, de leurs partisans et de leur communauté ?
 
-All players make their Angle Roll—including the ones with dead characters, interpreting the result as an impact on the lives of their close ones. When possible, address the previous questions during each character’s epilogue.
+Tous les joueurs font leur jet d'angle - y compris ceux dont les personnages sont morts, interprétant le résultat comme un impact sur la vie de leurs proches. Dans la mesure du possible, abordez les questions précédentes lors de l'épilogue de chaque personnage.
 
-SAMPLE OPPRESSOR: OMNI GLOBAL SOLUTIONS
+
+EXEMPLE D'OPPRESSEUR : OMNI GLOBAL SOLUTIONS
 ---------------------------------------
 
-A worldwide MEGA CONGLOMERATE. What are they really selling? What moral and legal lines have they crossed in their need for expansion?
+Un MEGA CONGLOMERATE mondial. Que vendent-ils vraiment ? Quelles sont les limites morales et légales qu'ils ont franchies dans leur besoin d'expansion ?
 
-## EDGES
-Cutting-edge tech, pristine reputation, global operations, paramilitary contractors, elite assets.
+## BORDURES
+Technologie de pointe, réputation irréprochable, opérations mondiales, sous-traitants paramilitaires, ressources d'élite.
 
-## POTENTIAL TARGETS
-__Joy, Inc.__ An automated factory. __President Castilho__, an immortal CEO, __monsoon.lib__, a dataset of dirty secrets, __Brightstar™__, a private orbital station/comsat.
+## CIBLES POTENTIELLES
+Une usine automatisée. __President Castilho__, un PDG immortel, __monsoon.lib__, un ensemble de données de sales secrets, __Brightstar™__, une station orbitale/comsat privée.
 
-## COUNTERMEASURES:
-*   Media outlets spread misinformation about the runners, staining their reputation and cutting off supporters.
-*   Project Quest is launched, turning even the most ordinary of the devices into pieces of an addicting citywide AR game. In what they think is an innocuous quest for Mega Points, participants actively hunt down the runners by any means necessary.
-*   The runners' most trusted ally is revealed to be working according to the Megacorp’s playbook to disrupt their plans—replacing gear with decoys, planting false leads, buying off supporters.
-*   Private security contractors pin down the runners, stripping them of their gear and leaving them to die in the toxic wastelands beyond the Dust Wall.
+## CONTRE-MESURES :
+* Les médias diffusent de fausses informations sur les coureurs, entachant leur réputation et leur coupant les vivres.
+* Le projet Quest est lancé, transformant même les appareils les plus ordinaires en pièces d'un jeu AR addictif à l'échelle de la ville. Dans ce qu'ils pensent être une quête inoffensive de Méga Points, les participants traquent activement les coureurs par tous les moyens nécessaires.
+* Il s'avère que l'allié le plus fiable des runners travaille selon les règles de Megacorp pour perturber leurs plans - remplacer les appareils par des leurres, créer de fausses pistes, acheter des partisans...
+* Des agents de sécurité privés épinglent les runners, les dépouillent de leur équipement et les abandonnent à leur sort dans les friches toxiques au-delà du Mur de Poussière.
 
-Additional Tables
-=================
+Tables supplémentaires
+======================
 
-Build a /Run
+Construire un /Run
 ------------
 
-__OBJECTIVE__
-1.  Assassinate / Tag
-2.  Escort / Protect
-3.  Steal / Extract
-4.  Smuggle / Courier
-5.  Raid / Defend
-6.  Plant / Sabotage
+OBJECTIF
+1.  Assassiner / Taguer
+2.  Escorter / Protéger
+3.  Voler / Extraire
+4.  Contrebande / Courrier
+5.  Raid / Défense
+6.  Planter / Saboter
 
-__TARGET__
-1.  Political leader
-2.  Celebrity
-3.  White hat hacker
-4.  Scientist
-5.  Corporate officer
+CIBLE
+1.  Dirigeant politique
+2.  Célébrité
+3.  Hacker à chapeau blanc
+4.  Scientifique
+5.  Dirigeant d'entreprise
 6.  AI
 
-__STATUS__
-1.  Undercover
-2.  Missing
-3.  Hostage
-4.  Secluded
-5.  Imprisoned
-6.  Refugee
+ÉTAT D'AVANCEMENT
+1.  Sous couverture
+2.  Disparue
+3.  Otage
+4.  Retiré(e)
+5.  Emprisonné
+6.  Réfugié
 
 __PAYLOAD__
-1.  Biological matter
-2.  Critical data
-3.  Essential resources
-4.  Rare artifact
-5.  Unique prototype
-6.  Energy source
+1.  Matière biologique
+2.  Données critiques
+3.  Ressources essentielles
+4.  Artéfact rare
+5.  Prototype unique
+6.  Source d'énergie
 
-__ORIGIN__
-1.  Offworld
-2.  Crowdsourced
-3.  Corporate
-4.  Paramilitary
-5.  Syndicate
-6.  Governmental
+ORIGINE DE L'OBJET
+1.  Hors du monde
+2.  Source d'énergie
+3.  L'entreprise
+4.  Paramilitaire
+5.  Syndicat
+6.  Gouvernemental
 
-__EXTERIOR LOCATION__
-1.  Highway
-2.  Street markets
-3.  Docks
-4.  Entertainment zone
-5.  Slums
-6.  Luxury gardens
+EMPLACEMENT EXTÉRIEUR
+1.  Autoroute
+2.  Marchés de rue
+3.  Les quais
+4.  Zone de divertissement
+5.  Bidonvilles
+6.  Jardins de luxe
 
-__INTERIOR LOCATION__
-1.  Corporate tower
-2.  Underground facility
-3.  Nightclub
-4.  Apartment complex
-5.  Powerplant
-6.  Monorail train
+EMPLACEMENT INTÉRIEUR
+1.  Tour d'entreprise
+2.  Installation souterraine
+3.  Boîte de nuit
+4.  Complexe d'appartements
+5.  Centrale électrique
+6.  Monorail
 
-__STREETS__
-1.  Riot
+LES RUES DE LA VILLE
+1.  Émeute
 2.  Construction
 3.  Festival
-4.  Street Race
-5.  Gang war
-6.  Corporate Parade
+4.  Course de rue
+5.  Guerre des gangs
+6.  Parade des entreprises
 
-__ENVIRONMENTAL ISSUE__
-1.  Permanight
-2.  Toxic smog
-3.  Flooding
-4.  Epidemic breakout
-5.  Power outage
-6.  Network breakdown
+QUESTIONS D'ORDRE ENVIRONNEMENTAL
+1.  Permanence
+2.  Smog toxique
+3.  Inondations
+4.  Déclenchement d'une épidémie
+5.  Panne d'électricité
+6.  Panne de réseau
 
-/Run Phases Summary
+/Résumé des phases d'exécution
 -------------------
 
-### Setup
+### Mise en place
 
-1.   GM and/or Players come up with the / Run OBJECTIVE.
-2.   Players make their characters.
-3.   GM prepares locations, obstacles, and potential assets.
-4.   Players select the ENGAGEMENT PLAN:
-    *   Assault
-    *   Deception
-    *   Stealth
-    *   Social
-    *   Transport
-5.   Players select LOAD.
-6.   Cut to the action.
+1.   Le MJ et/ou les joueurs définissent l'OBJECTIF de la course.
+2.   Les joueurs créent leurs personnages.
+3.   Le MJ prépare les lieux, les obstacles et les atouts potentiels.
+4.   Les joueurs choisissent le PLAN D'ENGAGEMENT :
+    * Assaut
+    * Déception
+    * Furtivité
+    * Social
+    * Transport
+5.   Les joueurs sélectionnent LOAD.
+6.   Passez à l'action.
 
 ### Run
 
-*   __COMING IN HOT:__ PCs face their first significant obstacle.
-*   __ERROR 417: EXPECTAT…:__ Put them on a spot. Reveal a twist, challenge their priorities or interests. The FINAL OBSTACLE should be demanding, resilient, complex.
-*   __LOGOFF:__ Players make their Angle Roll (GM Guide panel 7) and convey their epilogue based on the outcome.
+* __COMING IN HOT:__ Les PCs font face à leur premier obstacle significatif.
+* __ERROR 417 : EXPECTAT...:__ Mettez-les sur la sellette. Révélez un rebondissement, remettez en question leurs priorités ou leurs intérêts. L'OBSTACLE FINAL doit être exigeant, résistant, complexe.
+* Les joueurs effectuent leur jet d'angle (panneau 7 du Guide du MJ) et transmettent leur épilogue en fonction du résultat.
 
 * * *
 
-[Click here to download Framework as PDF]({{site.url}}download/CBRPNK_Framework_PlainText.pdf)
+[Cliquez ici pour télécharger le Cadre au format PDF]({{site.url}}download/CBRPNK_Framework_PlainText.pdf)
