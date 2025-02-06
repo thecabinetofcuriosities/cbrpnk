@@ -198,7 +198,7 @@ Special Actions
 Push
 ----
 
-Mark 1 Stress OR add a Glitch to either add a die to your roll OR Increase Effect OR Act when OUT.
+Mark 2 Stress OR add a Glitch to either add a die to your roll OR Increase Effect OR Act when OUT.
 
 Assist
 ------
