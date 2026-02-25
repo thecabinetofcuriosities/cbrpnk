@@ -24,7 +24,7 @@ div, p { box-shadow: none!important; }
 /* Light theme (default) */
 html[data-theme="light"] .side-bar,
 html[data-theme="light"] .page-header {
-    background-image: url(https://dl.dropbox.com/s/5crvzulrhyhtcsk/cbrpnktxtbg.jpg);
+    background-image: url("https://dl.dropbox.com/s/5crvzulrhyhtcsk/cbrpnktxtbg.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
