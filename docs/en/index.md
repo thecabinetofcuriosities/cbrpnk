@@ -43,7 +43,7 @@ Get the brochures in digital format at [emanoelmelo.itch.io/cbrpnk-core](https:/
 
 * * *
 
-CBR+PNK created by EMANOEL MELO ( [cabinetofcuriosities.games](https://cabinetofcuriosities.game)) and published by MYTHWORKS ( [myth.works](https://myth.works)).
+CBR+PNK created by EMANOEL MELO ([cabinetofcuriosities.games](https://cabinetofcuriosities.game)) and published by MYTHWORKS ([myth.works](https://myth.works)).
 
 Version Editor: Helen Hey
 
