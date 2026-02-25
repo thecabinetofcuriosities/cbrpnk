@@ -15,7 +15,7 @@ div, p { box-shadow: none!important; }
 }
 
 .side-bar, .page-header {
-  background-image: url("https://dl.dropbox.com/s/5crvzulrhyhtcsk/cbrpnktxtbg.jpg");
+  background-image: url("/assets/images/cbrpnktxtbg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -24,7 +24,7 @@ div, p { box-shadow: none!important; }
 /* Light theme (default) */
 html[data-theme="light"] .side-bar,
 html[data-theme="light"] .page-header {
-    background-image: url("https://dl.dropbox.com/s/5crvzulrhyhtcsk/cbrpnktxtbg.jpg");
+    background-image: url("/assets/images/cbrpnktxtbg.jpg");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -33,7 +33,7 @@ html[data-theme="light"] .page-header {
 /* Dark theme */
 html[data-theme="dark"] .side-bar,
 html[data-theme="dark"] .page-header {
-  background-image: url("https://dl.dropbox.com/scl/fi/m6n1oiqilwsh4jagjm0nn/cbrpnktxtbg_dark.jpg");
+  background-image: url("/assets/images/cbrpnktxtbg_dark.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
