@@ -30,13 +30,19 @@ Player Protocols
 File a Runner
 =============
 
-1. Enter a Handle —what they call you on the Grid and streets alike.
+1. Enter a Handle—what they call you on the Grid and streets alike.
 2. Enter a few evocative words to describe your Look.
-3. You risk it all for a reason. What’s in it for you? Choose an Angle and detail it briefly.
-4. Assign 2 , 1 , and 1 in any order to three of your Approaches.
-5. Distribute 8 dice over your Skills. To assign an Expertise, spend a third die on a particular Skill—choose or write the Expertise down aside.
-6. Body modifications of all types—Cybernetics, Biotech, and others—are widely adopted among Runners. Define your starting **Signature Augmentation** by writing down its model/brand and an outline of its primary feature, e.g., Ashide™ Racing Legs. While taking action or resisting Consequences, you can mark 1 Stress or SPECIAL RESISTANCE to leverage your Augmentation into it. During the Run, you may declare additional Augmentations or extra functionalities of existing ones as UPGRADES (panel 8).
-7. Don’t pick your Gear just yet—you’ll decide what you are carrying on the fly during the Run. For now, just circle on the list the ones you are interested in, for easy referencing later.
+3. You risk it all for a reason. What’s in it for you? Choose an Angle and detail it briefly. Convey what you ultimately run for:
+   * GET OUT
+   * MAKE THEM PAY
+   * LOOK AFTER THEM
+   * UPGRADE LIFE
+   * LEARN THE TRUTH
+   * TAKE A STAND
+4. Assign 2, 1, and 1 in any order to three of your Approaches.
+5. Distribute 8 dice in your Skills. To assign an Expertise, spend a third die on a particular Skill—choose or write the Expertise down aside.
+6. Body modifications of all types—Cybernetics, Biotech, and others—are widely adopted among Runners. Define your starting Signature Augmentation by writing down its model/brand and an outline of its primary feature (e.g. Ashidetm Racing Legs). While taking action or resisting Consequences, you can mark * or SPECIAL RESISTANCE to leverage your Augmentation into it. During the /Run, you may declare additional Augmentations or extra functionalities of existing ones as UPGRADES (panel 8).
+7. Don’t pick your Gear just yet—you’ll decide what you are carrying on the fly during the /Run. For now just circle the ones you are interested in on the list, for easy reference later.
 
 Runner ID
 =========
@@ -47,7 +53,7 @@ __HUNTED CHECKBOX__
 
 __LOOK:__
 
-__ANGLE__ — Convey what ultimately you run for:
+__ANGLE:__ — Convey what you ultimately run for:
 
 * Get out
 * Make them pay
@@ -68,22 +74,22 @@ Approaches
 Each Approach provides 0 to 2 dice to the Action Roll.
 
 * __AGGRESSIVE__
-    * Force, Intimidation, Destruction.
-    * GLITCHED: Hesitation
+  * Force, Intimidation, Destruction.
+  * GLITCHED: Hesitation
 * __SMART__
-    * Creativity, Cunning, Perception.
-    * GLITCHED: Disorientation
+  * Creativity, Cunning, Perception.
+  * GLITCHED: Disorientation
 * __EMPATHIC__
-    * Charisma, Leadership, Diplomacy.
-    * GLITCHED: Apathy
+  * Charisma, Leadership, Diplomacy.
+  * GLITCHED: Apathy
 * __STEALTHY__
-    * Discretion, Subterfuge, Secrecy.
-    * GLITCHED: Recklessness
+  * Discretion, Subterfuge, Secrecy.
+  * GLITCHED: Recklessness
 
 Skills
 ======
 
-Each Skill provides 0 to 2 dice to the Action Roll. __EXPERTISES__ (suggested after the Skill)  don’t add dice to a roll, but allow you to trade 1 die for an EDGE —and vice-versa—when they are applicable.
+Each Skill provides 0 to 2 dice to the Action Roll. __EXPERTISES__ don’t add dice to a roll, but allow you to trade dice for an EDGE—and vice-versa—when they are applicable.
 
 * __Analyze:__ People, Situation, Information.
 * __Athletics:__ Sprint, Parkour, Swim, Climb.
@@ -102,7 +108,7 @@ Each Skill provides 0 to 2 dice to the Action Roll. __EXPERTISES__ (suggested af
 Augmentations
 =============
 
-* Mark 1 Stress to activate an enhanced capability (e.g. therma-vision, wired reflexes, augmented strength) or produce/conceal an specific compact asset (chemicals, blade, nanobots). Can be combined with a Push.
+* Mark * to activate an enhanced capability (e.g. wired reflexes, therma-vision, augmented strength) or produce/conceal a specific compact asset (e.g. blade, chemicals, nanobots). Can be combined with a Push.
 * Mark SPECIAL RESISTANCE to wield it against a fitting type of Consequence (e.g. neural firewall, behavioral analyzer, toxin neutralizer, fireproof coating, etc).
 
 __AUGMENTATION NAME:__
@@ -112,7 +118,7 @@ __GLITCHED CHECKBOX__
 Load / Gear
 ===========
 
-During the Run, you may declare gear on-hand by marking it on your list—up to a number of items equal to your LOAD level. If an item is depleted, destroyed, or lost, cross it off the list.
+During the /Run you may declare Gear on-hand by marking it on your list—up to a number of items equal to your LOAD level. If an item is depleted, destroyed, or lost, cross it off the list.
 
 * __LIGHT \[3\]:__ Move freely, blend in easily.
 * __MEDIUM \[5\]:__ Look ready for a job.
@@ -143,7 +149,7 @@ Gear List
 * SPARE PARTS (1 Load)
 * EXTRA LOAD (Up to 4 Load)
 
-⚠ Gear and Augmentations are __Mid-Grade__ by default. When comparing gear between opposing sides, the highest-graded model has an EDGE for their better features. UPGRADE gear with FLASHBACKS.
+⚠ Gear and Augmentations are Mid-Grade by default. When comparing Gear between opposing sides, the highest-graded model has an EDGE for their better features. UPGRADE Gear with FLASHBACKS (panel 8).
 
 Stress
 ======
@@ -152,14 +158,14 @@ __STRESS TRACK: 7 SEGMENTS.__
 
 __PUSH:__ 2 Stress / __ASSIST:__ 1 Stress / __FLASHBACK:__ 1 OR 2+ Stress.
 
-__OVERLOAD:__ When you mark your last STRESS , an Approach of your choosing becomes permanently GLITCHED and immediately incurs a complication, such as:
+__OVERLOAD:__ When you mark your last STRESS, an Approach of your choosing becomes permanently GLITCHED and immediately incurs a complication, such as:
 
 * You are taken out of action.
 * You expose the team’s weakness.
 * You make the team lose an advantage.
 * You damage or overlook something crucial.
 
-While OVERLOADED , you can’t perform actions that would require Stress. TAKE A BREATHER (panel 3) to relieve Stress and clear this status.
+While OVERLOADED you can’t perform actions that would require Stress. TAKE A BREATHER (panel 3) to relieve * and clear this status.
 
 Resistance / Armor
 ==================
@@ -167,9 +173,9 @@ Resistance / Armor
 Convey how you are RESISTING to reduce the severity of a Consequence or, at the GM’s discretion, avoid it entirely. Then choose a method:
 
 * Mark and deplete either:
-    * __SPECIAL RESISTANCE__ (e.g. Envision a defensive use for your Augmentation.)
+    * __SPECIAL RESISTANCE__ (E.g. Envision a defensive use for your Augmentation.)
     * A fitting type of __ARMOR__ (What does it look like?)
-* Roll the appropriate APPROACH (don't add Skill this time), add a die if you opt to deplete a relevant GEAR:
+* Roll the appropriate APPROACH (don’t add Skill this time). Add a die if you opt to deplete a relevant GEAR:
     * __6,6:__ 2EZ. That's it.
     * __6:__ Solid. Mark 1 Stress.
     * __4/5:__ Not bad. Mark 2 Stress.
@@ -180,7 +186,7 @@ Harm
 
 If you take Harm of a Level already filled, move it on to a greater Harm Level.
 
-Whenever a HARM would hinder an action, apply its designated PENALTY—when OUT , you can act only if ASSISTED or making a PUSH.
+Whenever a HARM would hinder an action, apply its designated PENALTY—when OUT, you can act only if ASSISTED or making a PUSH.
 
 * __Level 1__ — Penalty: Reduced Effect
     * Harm Description (Slot 1):
@@ -223,7 +229,7 @@ Take or Resist a Consequence in place of a teammate.
 Flashback
 ---------
 
-Declare to have taken action in the past to impact the current situation—as long as you don’t “undo” something already established. The action is handled just like any other and may call for a roll if danger or trouble are involved. Also, the GM sets a Stress cost depending on its plausibility:
+Declare to have taken action in the past to impact the current situation—as long as you don’t undo something already established. The action is handled just like any other and may call for a roll if danger or trouble are involved. Also the GM sets a Stress cost depending on its plausibility:
 
 * __1 Stress:__ A standard activity, likely to have occurred.
 * __2 Stress or more:__ An elaborate plan involving unlikely factors.
@@ -231,11 +237,11 @@ Declare to have taken action in the past to impact the current situation—as lo
 Take a Breather
 ---------------
 
-Describe how the fiction provides you with an opportunity to unwind—gather your thoughts, take a pill, turn up the volume, punch a wall, check in with a loved one, patch yourself or a teammate up. Roll the appropriate Approach (do not add a Skill), add a die if you bring out your ANGLE , add a die if you deplete appropriate Gear :
+Describe how the fiction provides you with an opportunity to unwind—gather your thoughts, take a pill, turn up the volume, punch a wall, check in with a loved one, patch yourself or a teammate up. Roll the appropriate Approach (do not add a Skill), add a die if you bring out your ANGLE, add adie if you deplete appropriate Gear:
 
-* __6,6:__ You’ve been through worse. Clear all Stress -or- ignore both levels 1 and 2 Harm penalties for the remainder of the Run.
-* __6:__ That should work. Clear 3 Stress -or- ignore either level 1 or 2 Harm penalties for the remainder of the Run.
-* __4/5:__ Suck it up. Clear 2 Stress -or- ignore level 1 Harm penalties for the remainder of the Run.
+* __6,6:__ You’ve been through worse. Clear all Stress -or- ignore both levels 1 and 2 Harm penalties for the remainder of the /Run.
+* __6:__ That should work. Clear 3 Stress -or- ignore either level 1 or 2 Harm penalties for the remainder of the /Run.
+* __4/5:__ Suck it up. Clear 2 Stress -or- ignore level 1 Harm penalties for the remainder of the /Run.
 * __1-3:__ Take what you can get. Clear 1 Stress.
 
 Assets / Upgrades
@@ -243,19 +249,17 @@ Assets / Upgrades
 
 Call for a FLASHBACK to establish how you acquired it:
 
-__ASSETS:__ Vehicles, experts, safehouses, or data. E.g.: cyberdeck program, building’s blueprint, info broker.
+__ASSETS:__ Vehicles, experts, safehouses, or data (e.g.: cyberdeck program, building’s blueprint, info broker).
 
-__AUGMENTATIONS:__ Additional body enhancements with different features from previous ones.
+__AUGMENTATIONS:__ Additional body enhancements with different features from previous ones.
 
-__UPGRADES:__ Enhance a Gear to High-Grade or add an extra feature to a Gear, Augmentation, or Asset already in use. E.g.: Heat-seeker projectiles; Armored wheels; Self-repairs with nanobots; Elite street doc.
+__UPGRADES:__ Enhance a Gear to High-Grade or add an extra feature to a Gear, Augmentation, or Asset already in use. E.g.: heat-seeker projectiles, armored wheels, self-repair nanobots, elite street doc.
 
-Reduce the Flashback’s cost when declaring an Asset, Augmentation, or Upgrade by picking a fitting __DRAWBACK__ :
+Reduce the Flashback’s cost when declaring an Asset, Augmentation or Upgrade by picking a fitting DRAWBACK:
 
 * It’s large and/or heavy. Mark 1 or 2 __EXTRA LOAD__.
-* It is unstable or damaged beyond repair (e.g., an obsolete augmentation, corrupted program, makeshift weapon). Mark it as __GLITCHED__.
+* It is unstable or damaged beyond repair (e.g. obsolete augmentation, corrupted program, makeshift weapon). Mark it as __GLITCHED__.
 * It was never really paid for and now you are being __HUNTED__. Who sent them after you and what for? Whenever you attract unwanted attention, it may be their Hunter pinning you down.
 * You’ve made a promise or cut a deal. Name your patron/sponsor and mark a __DEBT__.
 
 * * *
-
-[Click here to download the Runner File as PDF]({{site.url}}download/CBRPNK_Runner_File_PlainText.pdf)
