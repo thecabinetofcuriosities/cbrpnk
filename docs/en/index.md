@@ -9,7 +9,7 @@ permalink: docs/en/index
 
 # CBR+PNK 
 
-## Plain Text Core Rules
+## Plain Text Core Rules in English
 _v1.6 April 2024_
 
 **CBR+PNK IS A FORGED IN THE DARK GAME FOR ONE-SHOT SESSIONS OF CINEMATIC CYBERPUNK ACTION.**
@@ -27,7 +27,7 @@ The **GAME MODERATOR (GM)** uses the game rules to establish a dynamic world aro
 {: .content }
 This game touches sensitive topics like racial stigma, class segregation, large-scale disaster, violence and substance abuse. Because of that, it is intended for mature players, with mutual trust and safety tools in place (e.g. the X-card, Lines & Veils and Open Door).
 
-{: .alert }
+{: .warning }
 This website provides the complete text of the game for reading and reference purposes only.
 It is not a System Reference Document (SRD) and does not grant permission to reproduce, adapt, redistribute, or create derivative works based on this content.
 If you wish to publish third-party material compatible with CBR+PNK, you must do so in accordance with the official CBR+PNK Compatibility License, available at: [https://emanoelmelo.itch.io/cbrpnk-toolkit](https://emanoelmelo.itch.io/cbrpnk-toolkit).
