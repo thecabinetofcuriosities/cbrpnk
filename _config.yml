@@ -57,6 +57,9 @@ callouts:
   warning:
     title: Warning
     color: red
+  alerta:
+    title: Alerta
+    color: red
   content:
     title: Content Warning
     color: yellow
