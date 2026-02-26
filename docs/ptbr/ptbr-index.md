@@ -34,15 +34,7 @@ O uso deste site não concede nenhuma licença além das expressamente previstas
 
 * * *
 
-Get the boxed set at [myth.works](https://myth.works/products/cbr-pnk)
-
-Get the brochures in digital format at [emanoelmelo.itch.io/cbrpnk-core](https://emanoelmelo.itch.io/cbrpnk-core)
-
-[Download the Plain Text Core Rules as zipped PDFs]({{site.url}}download/CBRPNK_PlainText.zip)
-
-* * *
-
-Edição Brasileira por COLETIVO SECULAR GAMES ( [seculargames.com.br](https://seculargames.com.br))
+Edição Brasileira por **COLETIVO SECULAR GAMES** ([seculargames.com.br](https://seculargames.com.br))
 
 Adquira em formato físico ou digital: [https://seculargames.com.br/loja/index.php/produto/cbrpnk-edicao-brasileira/](https://seculargames.com.br/loja/index.php/produto/cbrpnk-edicao-brasileira/)
 
