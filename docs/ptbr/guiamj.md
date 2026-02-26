@@ -8,7 +8,7 @@ permalink: docs/ptbr/guiamj
 ---
 
 **CBR+PNK**
-# GUIA DA MODERADORA
+# GUIA DA MODERADORA DO JOGO
 
 —
 
