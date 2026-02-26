@@ -23,7 +23,7 @@ Use of this website does not grant any license beyond those expressly provided i
 
 [Read the Plain Text Core Rules in English](/docs/en/index)
 
-<!--- [Texto Simples das Regras Base em Português Brasileiro](/docs/ptbr/ptbr-index.md) --->
+[Texto Simples das Regras Base em Português Brasileiro](/docs/ptbr/ptbr-index.md)
 
 * * *
 
