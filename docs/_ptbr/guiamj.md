@@ -2,175 +2,172 @@
 title: Guia da MJ
 layout: home
 nav_order: 1
+language: ptbr
 parent: Português Brasileiro
 permalink: docs/ptbr/guiamj
 ---
 
 **CBR+PNK**
-# GUIA DA MODERADORA DO JOGO
+# GUIA DA MODERADORA
 
 —
 
 Protocolos da Moderadora do Jogo
 ================================
 
-*   Jogue para saber o que acontece.
-*   Telegrafe problemas e conflitos antes deles acontecerem. Estabeleça situações ameaçadoras com tom narrativo e ofereça sinais de suas intenções.
-*   Siga com as ameaças estabelecidas sem hesitar. Não poupe ninguém, as PJs tem um amplo arsenal de possibilidades para enfrentar a adversidade.
-*   Faça perguntas para preparar a cena, encoraje as jogadoras a expressar suas personagens, suas circunstâncias ficcionais e satisfazer suas curiosidades… e te ajudar caso você trave.
-*   Ofereça contexto. Retrate um mundo vibrante de alta tecnologia e baixas condições de vida ao redor dos personagens do jogo.
-*   Apresente situações interessantes e construa a partir das decisões tomadas.
-*   Corte direto para a ação.
+* Jogue para ver o que acontece.
+* Telegrafe cada golpe. Estabeleça as ameaças pela implicação do tom e dê pistas sobre suas intenções.
+* Concretize as ameaças estabelecidas. Não segure seus golpes, as PJ têm à sua disposição muitas ferramentas para lidar com quaisquer obstáculos.
+* Faça perguntas para ajudar a armar a cena, encorajar as jogadoras a representarem suas personagens, reforçar as circunstâncias ficcionais, satisfazer suas curiosidades ou para sondar as jogadoras quando você se sentir travada.
+* Forneça o contexto. Transmita um mundo vibrante de alta tecnologia e baixa qualidade de vida ao redor das PJ.
+* Apresente situações interessantes, e depois elabore em cima das escolhas que as jogadoras fizerem.
+* Vá direto pra ação.
 
 Preparação do Jogo
 ==================
 
-Para jogar este jogo, você precisará do Guia da M.J. (este texto) e uma Ficha de Marginal para cada jogadora.
+PARA JOGAR, VOCÊ PRECISA DO GUIA DA MJ (ESTE LIVRETO), UM REGISTRO DE CORRERIA PARA CADA JOGADORA, DADOS DE SEIS LADOS (QUATRO POR JOGADORA SERIA O IDEAL), COISAS PARA ESCREVER E PAPEL PARA USAR EM ANOTAÇÕES E ACOMPANHAMENTO DE PROGRESSÃO.
 
-Um jogo de CBR+PNK gira em torno do __ÚLTIMO CORRE__ das personagens — uma operação altamente arriscada com um claro OBJETIVO, melhor adequado a um grupo de MARGINAIS veteranos.
+Uma partida de CBR+PNK envolve o ÚLTIMO CORRE de suas personagens — uma operação de alto risco com um OBJETIVO nítido, e adequada só pras CORRERIA mais experientes.
 
-Como M.J., você pode tanto rascunhar as linhas gerais desse Corre antes de começar o jogo, quanto gerá-las na hora usando as “prompts” encontradas no livreto FRAMEWORK. Jogadoras também podem escrever suas ideias para o Corre, já articulando seus ESQUEMAS e eventuais status de PROCURADA.
+A MJ pode fazer alguns esboços antes, ou criá-los ali na hora usando as perguntas do livreto FRAMEWORK. As jogadoras também podem dar algumas ideias próprias sobre o Corre, ajudando a pensar em seus ESQUEMAS e eventuais estados de PROCURADAS.
 
-Depois de selecionar o Corre, peça às jogadoras ficharem suas MARGINAIS (fazerem suas personagens).
+Após escolher o Corre, peça que as jogadoras preencham seus REGISTROS DE CORRERIA (construam suas PJ).
 
-Enquanto isso, escreva um punhado de LOCAIS, potenciais RECURSOS e faça uma lista de 3 a 6 obstáculos que possam surgir no caminho.
+Do seu lado das coisas, escreva algumas LOCALIDADES, alguns RECURSOS potenciais, e faça uma lista de 3-6 OBSTÁCULOS que podem aparecer.
 
-Não prepare mais do que preciso: Esse é um jogo que você **JOGA PRA VER**.
+Não se prepare demais: este é um jogo onde é preciso JOGAR PARA DESCOBRIR o que acontece.
 
-Quando todas estiverem prontas, relembre qual é o OBJETIVO do Corre e deixe as jogadoras escolherem seu PLANO DE AÇÃO e responderem às perguntas que seguem.
+Quando todas estiverem prontas, repasse o OBJETIVO do Corre e deixe que elas pensem em um PLANO DE AÇÃO (seu principal curso de ação) e responda às seguintes perguntas:
 
-*   __ASSALTO:__ Ponto de ataque?
-*   __TRAPAÇA:__ Método do esquema ou golpe?
-*   __DISCRETO:__ Ponto de infiltração?
-*   __SOCIAL:__ Contato a ser usado?
-*   __TRANSPORTE:__ Rota e meios de transporte?
+* __INVESTIDA:__ Qual é o local de ataque?
+* __SUBTERFÚGIO:__ Qual é o método de subterfúgio?
+* __FURTIVIDADE:__ Qual o local de infiltração?
+* __SOCIAL:__ Há alguma conexão a ser explorada?
+* __TRANSPORTE:__ Quais seriam as rotas e meios?
 
-Não é preciso detalhar cada passo do plano—isso acontece “off-screen”. Peça para selecionarem suas CARGAS e corte direto pra ação.
+Elas não precisam detalhar cada passo do plano, já que a maior parte disso acontece fora das câmeras. Peça que escolham sua CARGA e vá direto pra ação.
 
-1 / CHEGAR FERVENDO
--------------------
+### 1 / Já chegue com tudo
 
-Descreva o LOCAL e as circunstâncias em que as PJs se encontram no começo do Corre de acordo com o PLANO DE AÇÃO decidido. As personagens já lidaram com quaisquer pequenos inconvenientes e encontram agora seu primeiro desafio real: um tiroteio, perseguição, uma blitz, etc. Peça que cada jogadora introduza sua personagem enquanto lidam com o desafio de sua maneira—possivelmente engatando JOGADAS DE AÇÃO.
+Baseando-se no PLANO DE AÇÃO, descreva o LOCAL e as circunstâncias iniciais das PJ. Elas já teriam lidado com as pequenas inconveniências e agora estão diante do primeiro obstáculo importante: um tiroteio, uma perseguição, um posto de controle, etc. Peça que cada Jogadora apresente sua Correira, dizendo o que ela está fazendo para lidar com aquele problema à sua maneira. Isso provavelmente já vai levar a algumas JOGADAS DE AÇÃO (painel 4).
 
-2 / ERRO 417: FALHA DE EXPECTATIVAS
------------------------------------
+### 2 / ERRO 417: Falha na expectativa
 
-Desenvolva a ficção a partir das ações das jogadoras e, quando estiver bem perto do objetivo, você já terá o suficiente para virar o jogo. Revele uma reviravolta que desafie as prioridades ou interesses das PJs—talvez o software que estão roubando é a primeira I.A. auto-consciente; Os sintéticos fora-de-controle demonstram empatia e humanidade; O cliente da operação é revelado como um inimigo comum do grupo; Uma organização suspeita também está interessada no alvo do Corre, etc.
+Desenvolva a cena de acordo com as ações tomadas, e na medida em que as PJ se aproximam do objetivo, você já deve estar pronta para jogá-las no fogo. Faça alguma revelação inesperada, possivelmente desafiando as prioridades e interesses das PJ: talvez os dados que elas estejam roubando sejam na verdade a primeira IA desperta; os sintéticos fugitivos de repente mostram empatia com relação a seus criadores; o cliente desse trampo é na verdade um velho inimigo das Correria; ou quem sabe uma organização suspeita também esteja interessada no mesmo alvo.
 
-O OBSTÁCULO FINAL pode ser um indivíduo de amplos recursos, uma máquina extremamente resistente ou uma escolha particularmente difícil.
+O OBSTÁCULO FINAL pode ser um indivíduo ardiloso, uma máquina resistente, ou uma escolha difícil.
 
-Quando o OBJETIVO do Corre é concluído (com sucesso ou não), encerre a cena e corte para os epílogos.
+Quando o OBJETIVO do corre (com sucesso ou não), finalize tudo e avance direto para os epílogos.
 
-3 / LOGOFF
-----------
+### 3 / Desconectar
 
-As Marginais recebem suas recompensas (ou péssimas notícias, caso tenham fracassado) e agora vemos como elas aproveitam isso pra fechar seus Esquemas.
+As Correria recebem sua recompensa (ou péssimas notícias, em caso de falha), e agora vamos ver como elas usam isso para alcançar seu Esquema.
 
-O resultado do epílogo é determinado por uma JOGADA DE ESQUEMA.
+O resultado de seu epílogo é determinado por uma JOGADA DE ESQUEMA.
 
-Jogada de Esquema
+JOGADA DE ESQUEMA
 -----------------
 
-No seu turno, a Jogadora declara qual Abordagem usará para fechar seu Esquema e pega seus dados correspondentes. Ademais, também role:
+Na sua vez, a jogadora declara qual ATITUDE vai empregar para tentar alcançar seu Esquema e pega os dados correspondentes. Ela pega também:
 
-*   \-1D se a Abordagem escolhida tem um GLITCH (não adicione dado com glitch nessa jogada).
-*   \-1D para cada DÍVIDA marcada.
-*   \-1D se se esqueceram de ou falharam em algum aspecto da missão (prazo, levantar suspeitas, integridade do alvo, etc.) Ou -2D caso tenham abandonado a missão completamente.
-*   +1D para cada CRED marcado: refém trocado por recompensa, segredos corporativos vendidos,  chips de crédito irrastreáveis encontrados, ou um favor chave para Sre. Smith.
+* \-1D caso a Atitude esteja BUGADA (não adicione o dado BUGADO a esta jogada).
+* \-1D para cada DÉBITO marcado.
+* \-1D se tiver ignorado ou falhado no cumprimento de um ou mais requisitos críticos: limite de tempo, qualidade, integridade, etc. Ou -2D caso tenha abandonado a missão.
+* +1D para cada CRÉDITO marcado: um alvo recuperado, a extração e venda de segredos corporativos, encontrar um depósito de créditos irrastreáveis, conseguiu realmente agradar Srx. Ninguém.
 
-⚠ Se for rolar 0 ou menos dados, role 2 dados e use o pior resultado.
+⚠ Caso isso resulte em zero dados ou menos, role 2D e use o menor.
 
-A Jogadora rola seus dados e descreve o que acontece com sua personagem (5 minutos por Jogadora deve ser o suficiente).
+A jogadora faz a rolagem e descreve o que acontece com sua personagem (uns cinco minutos por jogadora devem ser suficientes).
 
-Se a Jogadora não gostar do resultado, é possível subir um degrau na escala, mas sob um terrível custo: algo/alguém que ama, seus ideais, sua identidade, a si própria.
+Caso elas não se sintam satisfeitas com o resultado, elas podem aumentá-lo em um passo mediante um preço muito alto: alguém/alguma coisa que amam, seus ideais, elas mesmas.
 
-*   __6,6: Sucesso extraordinário.__ Depois de todas as Jogadoras terminarem suas rolagens, escolha a quem você vai estender a mão—e aumentar seu resultado por um nível na escala. Descrevam juntas como isso acontece na história.
-*   __6: Você escapa praticamente intacta.__ Por que isso não parece uma vitória?
-*   __4/5: Você conseguiu… mas não vai durar.__ Como você se prepara para o que vem aí?
-*   __1-3: Você falhou.__ Como suas ações só fizeram tudo piorar ainda mais?
+* __6, 6:__ Você é muito bem-sucedida. Após as demais jogadoras terminarem, escolha uma para oferecer uma mãozinha e melhore o resultado dela em um passo. Descrevam juntas como isso ocorre na ficção.
+* __6:__ Você conseguiu sair praticamente intacta, mas por que isso não te dá a sensação de vitória?
+* __4/5:__ Você conseguiu, mas sabe que não vai durar. Como é que se arranja?
+* __1-3:__ Você falhou. Como foi que suas ações só conseguiram piorar ainda mais sua situação?
 
 Jogada de Ação
 ==============
 
-Quando um PJ enfrenta uma situação perigosa e desafiadora, o resultado é determinado por um JOGADA DE AÇÃO:
+Quando uma PJ estiver diante de uma situação arriscada ou problemática, seu resultado é definido através da JOGADA DE AÇÃO:
 
-1.  A jogadora descreve o que quer alcançar e quais Abordagens, Habilidades e quaisquer outros fatores (equipamento, amplificações, aspectos do ambiente, etc.) usará fazê\-lo.
-Não existem Abordagens “erradas” para lidar com uma situação. Entretanto, certas abordagens podem ser menos efetivas ou resultar em consequências mais severas, forçando a Jogadora a repensar seu rumo de ação para melhorar sua posição.
-2.  A M.J. avalia o perigo e revela as prováveis consequências.
-Se avaliar que um ou mais lados tem Vantagens em um ou outro aspecto da situação, a M.J. deve informar os Níveis de Ameaça e Efeito esperados—caso contrário, use o nível padrão (Nível 2).
-3.  A Jogadora pode então escolher por aumentar simultaneamente os Níveis de Ameaça e Efeito, para melhorar o Efeito sob o custo de uma pior consequência.
-4.  A Jogadora rola seus dados:
-    * Um número igual ao total de seus valores de Abordagem+Habilidade.
-    * Adicione dados extras por Esforçar e/ou receber Ajuda.
-    * ⚠ Se for rolar 0 ou menos dados, role 2 dados e use o pior resultado.
-5.  A jogadora rola seus dados e usa o melhor resultado dentre eles, obtendo o resultado de acordo com a tabela abaixo.
+1. A jogadora descreve o que ela quer que aconteça, e qual Atitude, Perícia, ou outros fatores (equipamento, ampliação, aspecto ambiental) ela vai usar para isso. Não existem atitudes erradas para uma situação, mas algumas podem ser menos eficazes ou resultar em consequências mais severas, permitindo que a jogadora repense seu curso de ação para melhorar sua posição ficcional.
+2. A MJ avalia o risco e informa as prováveis Consequências. A presença de TRUNFOS ou aspectos distintos da situação em cada um dos lados vão ser bons indicativos dos Níveis de Ameaça (A) ou Efeito (E) esperados. Caso contrário, use o NÍVEL 2 padrão.
+3. A jogadora pode aumentar tanto A quanto E juntos, de forma a obter um Efeito maior em troca de uma Consequência pior, ou vice-versa.
+4. A jogadora junta seus dados:
+   * Um número de dados igual à soma dos valores de sua Atitude+Perícia.
+   * Dados adicionais vindos de Esforço e/ou Ajuda.
+   * ⚠ Caso isso resulte em zero dados ou menos, ela deve rolar dois dados e usar o menor.
+5. A jogadora rola seus dados todos de uma vez e encontra o valor mais alto, julgando o resultado conforme a tabela adiante.
 
-Jogadora e M.J. trabalham juntos para narrar a ação, mas é esta última que tem o dizer final sobre os  resultados e eventuais consequências.
-*   __6,6: Crítico.__ Sucesso completo, ganhe um benefício extra (aumentar o Efeito, desvendar um segredo, melhorar sua posição, localizar uma recompensa).
-*   __6: Sucesso.__ Tudo vai como planejado.
-*   __4/5: Sucesso Parcial.__ Ação é realizada, mas sofra uma consequência.
-*   __1-3: Fracasso.__ Tudo vai mal e nada ocorre como esperado, sofra uma consequência.
+Jogadoras e MJ devem pensar juntas na narração da ação, lembrando-se que a MJ tem a palavra final no resultado e também é quem vai declarar eventuais Consequências.
 
-Dado com Glitch
----------------
+* __6, 6:__ Crítico. PJ é bem sucedida e ainda consegue um extra (Reduzir Efeito, revelar um segredo, melhorar sua posição, localizar um alvo).
+* __6:__ Sucesso. Tudo nos conformes.
+* __4/5:__ Sucesso Parcial. É um sucesso, mas acompanhado de uma Consequência.
+* __1-3:__ Falha. As coisas dão errado pra PJ, que além de falhar, sofre uma Consequência.
 
-Cada fator com __GLITCH__ usado numa Jogada de Ação troca um dado normal por um __DADO COM GLITCH__—use um dado facilmente diferenciável dos outros.
+DADO BUGADO
+-----------
 
-Depois de avaliar o resultado do valor total como de costume, leia o DADO COM GLITCH separadamente. Se o valor for 1-3, gere uma Consequência que não pode ser Resistida, com 4-5, essa Consequência pode ser Resistida normalmente.
+Cada fator __BUGADO__ usado em uma Jogada de Ação substitui um dado normal por um __Dado BUGADO__. Use um dado que seja fácil de diferenciar.
 
-Ameaça / Efeito / Vantagem
-==========================
+Após julgar o resultado normalmente, veja o menor dado BUGADO. Caso seja 1-3, ele ativa uma Consequência de Nível 2 adicional que não pode ser Resistida; caso seja 4/5, essa consequência adicional pode ser Resistida normalmente.
 
-O Nível de Ameaça (A) significa o perigo de dada situação e o quanto as PJs podem perder em caso de sucesso parcial ou fracasso. O Nível de Efeito (E) significa o quão efetivo é um sucesso. Eles são ambos designados, como padrão, no Nível 2, mas podem subir até o Nível 4.
+Ameaça / Efeito / Trunfo
+========================
 
-Cada lado de um conflito pode ter uma VANTAGEM de acordo com uso de equipamento, ambiente, táticas ou fraquezas do adversário—mas apenas os fatores mais significantes devem ser considerados. Vantagens podem aumentar ou reduzir quaisquer dos Níveis de Ameaça e Efeito em favor do lado com Vantagem:
+O Nível de Ameaça (A) demonstra o perigo imposto pela situação, além do que e do quanto as PJs podem perder em uma falha ou sucesso parcial. O Nível de Efeito (E) mede o tamanho da realização diante de um sucesso. Ambos são definidos como NÍVEL 2 por padrão, podendo subir até Nível 4.
 
-*   Se o OBSTÁCULO tem uma Vantagem permitindo que ele responda mais efetivamente, aumente a Ameaça. Se a Vantagem aprimora sua defesa ou minimaliza os esforços da PJ, reduza o Efeito.
-*   Se uma MARGINAL tem uma Vantagem que pode mitigar ou evitar retaliação do OBSTÁCULO, reduza a Ameaça. Se a Vantagem pode fazer sua ação mais efetiva, aumente o Efeito.
-    *   Ao usar uma Especialização, a Jogadora pode trocar um dado por uma Vantagem.
-    *   A Jogadora pode escolher se Esforçar para aumentar o Efeito.
+Em um conflito, cada lado pode ter um TRUNFO originado de como estão usando seus equipamentos, táticas, ambiente ou a fraqueza de sua oposição diante de suas vantagens. Apenas os fatores mais importantes devem ser considerados. Trunfos podem Aumentar ou Reduzir qualquer dos níveis a favor daquele lado:
+
+* Caso a __OPOSIÇÃO__ tenha um Trunfo que lhe permita responder de forma mais eficiente, Aumentar Ameaça. Caso seu Trunfo melhore suas defesas ou reduza os esforços das PJ, Reduzir Efeito.
+* Caso a __CORRERIA__ tenha um Trunfo que possa evitar ou mitigar a retaliação da Ameaça, Reduzir Ameaça. Caso seu Trunfo aumente sua efetividade, ele pode Aumentar Efeito.
+  * Podem trocar um dado por um Trunfo usando Especialização.
+  * Podem fazer Esforço para Aumentar Efeito.
 
 Consequências
 =============
 
-Infligidas por inimigos, por más circunstâncias ou por falta de sorte numa jogada de dados. Informam o Nível de Dano, as marcações na Trilha, a severidade da complicação, etc.
+Essas são causadas pelas ações dos inimigos, situações ruins, ou pelo resultado de uma jogada. A demonstra o nível de Dano, os riscos em uma Trilha, ou a gravidade de uma Complicação, etc.
 
-*   __Efeito Reduzido:__ sua ação é pouco efetiva, reduza o Efeito.
-*   __Dano:__ debilidades ou ferimentos duradouros. Requerem tempo ou tratamento para sarar.
-*   __Complicação:__ comprometa um recurso (Ex. Uma Amplificação fica com GLITCH, suas munições acabam, etc.), comece ou avance na Trilha de Progressão do Perigo.
-*   __Agravamento da Ameaça:__ perca do controle da situação, tire uma Vantagem ou outra salvaguarda para aumentar a Ameaça.
-*   __Oportunidade Perdida:__ a circunstância muda e é preciso encontrar um outro rumo de ação.
+* __Efeito Reduzido:__ a ação não sai bem como planejada, causando Reduzir Efeito ou apenas produz uma versão piorada do que queriam, dadas as circunstâncias.
+* __Dano:__ alguma condição ou ferimento persistente. Requer tempo ou tratamento para sua recuperação.
+* __Complicação:__ o comprometimento de recursos (ex.: um implante fica BUGADO), gasto de reservas (ex.: munição), começa e/ou avança uma Trilha de Progressão problemática.
+* __Agravamento de Ameaça:__ elas perdem o controle da situação, perdendo um Trunfo ou uma proteção para Aumentar Ameaça.
+* __Oportunidade Perdida:__ as circunstâncias mudam, e elas precisam encontrar uma nova abordagem.
 
-Combine esses como for melhor para a ficção (Ex. A PJ falha em uma Jogada contra um inimigo de Ameaça 3. Como consequência, a MJ pode causar Dano de Nível 3 ou um Dano de Nível 1 e a PJ é desarmada pelo inimigo).
+Combine essas coisas de acordo com a ficção. Ex.: uma Correria que esteja encarando um inimigo Ameaça 3 rola uma Falha. Como Consequência, a MJ poderia causar um Dano de Nível 3, ou um Dano de Nível 1 e o inimigo desarma a PJ.
 
-Marginais podem __RESISTIR__ a cada Consequência separadamente.
+Correrias podem __RESISTIR__ a cada Consequência separadamente.
 
-Cada Nível de Dano implica uma penalidade ao Jogada de Ação pertinente (pode ser eliminada depois ao Tomar Fôlego). Se uma PJ toma dano de Nível já preenchido, preenche em vez um nível acima. Se não houver mais espaços para preencher, é Hora de Morrer. 
+Cada nível de Dano implica em uma penalidade permanente para Jogadas de Ação (RECUPERE O FÔLEGO para tentar se livrar delas). Quando a PJ recebe um Dano de um Nível já preenchido, ele vai para algum em um Nível acima. Caso ela não tenha mais nenhum espaço sobrando para ser preenchido, então Chegou a sua hora.
 
-Dessa forma, Dano de Nível 4 é FATAL se não for resistido, e deve ser infligido somente se esse risco de morte está claro.
+Dessa forma, um Dano de Nível 4 é FATAL caso não sofra Resistência e só deveria ser infligido caso os riscos tenham ficado bem claros.
 
-Trilha de Progressão
-====================
+Trilhas de Progressão
+=====================
 
-Determine uma __Trilha de Progressão__ de 4, 6 ou 8 espaços quando uma situação é complexa e você precisa acompanhar o andamento dos esforços e progressos através do tempo—ou então resolva o resultado de uma ação com uma única jogada de dados. Obstáculos ainda mais complexos podem ter Trilhas de Progressão estruturadas em camadas, representando múltiplos degraus necessários para vencê-los.
+Crie Trilhas de Progressão de 4, 6 ou 8 segmentos caso uma situação seja muito complexa e necessite de acompanhamento dos esforços e progressos feitos sobre ela ao longo do tempo. Caso contrário, resolva a ação com apenas uma jogada. Obstáculos ainda mais complicados podem apresentar Trilhas de Progressão em camadas, representando os múltiplos passos necessários para sua superação.
 
-Quando as Marginais avançam em direção ao seu objetivo, marque um número espaços da Trilha de Progressão igual ao Nível de Efeito. Quanto progresso é feito por um Obstáculo, marque espaços igual ao Nível de Ameaça.
+Quando as PJ fizerem progresso rumo ao objetivo, marque um número de segmentos na Trilha de Progressão adequada igual ao E. Quando o progresso é feito pela oposição, marque um número de segmentos igual a A.
 
-Use Trilhas de Progressão para:
+Empregue Trilhas de Progressão para:
 
-*   __Marcar o progresso de uma tarefa:__ a resiliência de um oponente ou a integridade de uma firewall. A tarefa termina quando a Trilha de Progressão chega ao final.
-*   __Começar uma contagem regressiva:__ a chegada de reforços oponentes ou uma bomba-relógio. O evento ocorre quando a Trilha é preenchida.
-*   __Representar uma corrida:__ um hacker infiltrando um sistema enquanto os seguranças se aproximam. Marque 2 Trilhas de Progressão opostas, elas não precisam ter o mesmo tamanho.
+* __Marcar o progresso em uma tarefa:__ a resistência do inimigo; a integridade de um sistema. A tarefa é completada assim que todos os seus segmentos sejam preenchidos.
+* __Programar uma contagem regressiva:__ chegada de reforços; uma bomba-relógio. Problemas ocorrem assim que a Trilha for totalmente preenchida.
+* __Representar uma corrida:__ um hacker infiltrando-se em uma rede enquanto o cerco se fecha. Crie duas Trilhas opostas, e elas não precisam ser necessariamente do mesmo tamanho.
 
-Habilidade de Adversário
-========================
+Habilidade dos Adversários
+==========================
 
-Capacidades especiais de Adversários se manifestam através de Trilhas de Progressão, da severidade das Consequências que estes podem causar, e ultimamente por seu Nível de Habilidade.
+As capacidades dos adversários são demonstradas através das Trilhas de Progressão, da gravidade das Consequências que eles provocam (como resultado de certos posicionamentos ficcionais) e, em última análise, pelo seu Nível de Habilidade.
 
-Ao lidar contra adversários **Regulares**, as Jogadas de Ação das PJs são suficientes para determinar os resultados de ambas partes simultaneamente. Uma simples Jogada de Ação determinará como as ações interagem entre si e quais Consequências causam.
+Quando adversários **Comuns** estão envolvidos, as Jogadas de Ação das PJ determinam o resultado para ambos os lados simultaneamente. Uma única jogada indica como suas ações interagem e as Consequências resultantes disso.
 
-Mas quando um adversário **Habilidoso** age, ele tem algo que almeja conseguir. Como os PJs respondem—e seus dados jogados—determinam o quão efetivo esse adversário foi.
+Quando adversários **Habilidosos** agem, eles estão prestes a conseguir algo. A resposta das Correria a isso, assim como suas Jogadas, determinam a efetividade desses adversários.
 
-Ao tomar a iniciativa, Adversários de **Elite** podem infligir uma Consequência que deve ser resistida antes das Marginais terem chance de agir.
+Ao tomar a iniciativa, adversários de **Elite** são capazes de provocar uma Consequência que precisa de Resistência antes que as Correria tenham alguma chance de agir.
 
 * * *
