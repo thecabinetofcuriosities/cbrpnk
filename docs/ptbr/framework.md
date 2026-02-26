@@ -4,7 +4,7 @@ layout: home
 nav_order: 3
 language: ptbr
 parent: Português Brasileiro
-permalink: docs/en/framework
+permalink: docs/ptbr/framework
 ---
 
 **CBR+PNK**

@@ -4,7 +4,7 @@ layout: home
 nav_order: 2
 language: ptbr
 parent: Português Brasileiro
-permalink: docs/en/jogadora
+permalink: docs/ptbr/jogadora
 ---
 
 **CBR+PNK**
