@@ -9,6 +9,7 @@ permalink: docs/ptbr/index
 
 ## Texto Simples das Regras Base em Português Brasileiro
 
+—
 
 **CBR+PNK É UM JOGO FORGED IN THE DARK PARA SESSÕES ONE-SHOT DE AÇÃO CINEMATOGRÁFICA CYBERPUNK.**
 
