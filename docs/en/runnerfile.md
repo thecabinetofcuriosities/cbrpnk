@@ -41,7 +41,7 @@ File a Runner
    * TAKE A STAND
 4. Assign 2, 1, and 1 in any order to three of your Approaches.
 5. Distribute 8 dice in your Skills. To assign an Expertise, spend a third die on a particular Skill—choose or write the Expertise down aside.
-6. Body modifications of all types—Cybernetics, Biotech, and others—are widely adopted among Runners. Define your starting Signature Augmentation by writing down its model/brand and an outline of its primary feature (e.g. Ashidetm Racing Legs). While taking action or resisting Consequences, you can mark * or SPECIAL RESISTANCE to leverage your Augmentation into it. During the /Run, you may declare additional Augmentations or extra functionalities of existing ones as UPGRADES (panel 8).
+6. Body modifications of all types—Cybernetics, Biotech, and others—are widely adopted among Runners. Define your starting Signature Augmentation by writing down its model/brand and an outline of its primary feature (e.g. Ashidetm Racing Legs). While taking action or resisting Consequences, you can mark Stress or SPECIAL RESISTANCE to leverage your Augmentation into it. During the /Run, you may declare additional Augmentations or extra functionalities of existing ones as UPGRADES (panel 8).
 7. Don’t pick your Gear just yet—you’ll decide what you are carrying on the fly during the /Run. For now just circle the ones you are interested in on the list, for easy reference later.
 
 Runner ID
@@ -108,7 +108,7 @@ Each Skill provides 0 to 2 dice to the Action Roll. __EXPERTISES__ don’t add d
 Augmentations
 =============
 
-* Mark * to activate an enhanced capability (e.g. wired reflexes, therma-vision, augmented strength) or produce/conceal a specific compact asset (e.g. blade, chemicals, nanobots). Can be combined with a Push.
+* Mark 1 Stress to activate an enhanced capability (e.g. wired reflexes, therma-vision, augmented strength) or produce/conceal a specific compact asset (e.g. blade, chemicals, nanobots). Can be combined with a Push.
 * Mark SPECIAL RESISTANCE to wield it against a fitting type of Consequence (e.g. neural firewall, behavioral analyzer, toxin neutralizer, fireproof coating, etc).
 
 __AUGMENTATION NAME:__
@@ -165,7 +165,7 @@ __OVERLOAD:__ When you mark your last STRESS, an Approach of your choosing becom
 * You make the team lose an advantage.
 * You damage or overlook something crucial.
 
-While OVERLOADED you can’t perform actions that would require Stress. TAKE A BREATHER (panel 3) to relieve * and clear this status.
+While OVERLOADED you can’t perform actions that would require Stress. TAKE A BREATHER (panel 3) to relieve Stress and clear this status.
 
 Resistance / Armor
 ==================
