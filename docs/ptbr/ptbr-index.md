@@ -9,6 +9,7 @@ permalink: docs/ptbr/index
 
 ## Texto Simples das Regras Base em Português Brasileiro
 
+
 **CBR+PNK É UM JOGO FORGED IN THE DARK PARA SESSÕES ONE-SHOT DE AÇÃO CINEMATOGRÁFICA CYBERPUNK.**
 
 As personagens JOGADORAS (PJ) são **CORRERIA**—mercenárias, criminosas, rebeldes vivendo no limite e fazendo corres nas sombras de um mundo desolador e ultra violento. Em cada partida, elas são trazidas à vida como uma equipe, preparadas para assumir enormes riscos para alcançarem seus Esquemas ao executar um **ÚLTIMO CORRE**.
@@ -24,7 +25,7 @@ A **MODERADORA DO JOGO (MJ)** usa as regras do jogo para estabelecer um mundo di
 {: .content }
 ESTE JOGO VISITA TÓPICOS SENSÍVEIS COMO ESTIGMA SOCIAL, SEGREGAÇÃO DE CLASSES, DESASTRES EM LARGA ESCALA, VIOLÊNCIA E ABUSO DE SUBSTÂNCIAS. POR CAUSA DISSO, ELE É VOLTADO A LEITORES MADUROS, QUE TENHAM CONFIANÇA MÚTUA E FERRAMENTAS DE SEGURANÇA IMPLEMENTADAS (EX.: O X-CARD, LINHAS E VÉUS E PORTAS ABERTAS).
 
-{: .alert }
+{: .alerta }
 Este site fornece o texto completo do jogo apenas para leitura e referência.
 Ele não é um Documento de Referência de Sistema (SRD) e não concede permissão para reproduzir, adaptar, redistribuir ou criar obras derivadas com base neste conteúdo.
 Se você deseja publicar material de terceiros compatível com CBR+PNK, deve fazê-lo de acordo com a Licença Oficial de Compatibilidade CBR+PNK, disponível em: [https://emanoelmelo.itch.io/cbrpnk-toolkit](https://emanoelmelo.itch.io/cbrpnk-toolkit).
