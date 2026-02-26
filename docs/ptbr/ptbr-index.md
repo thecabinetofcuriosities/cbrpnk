@@ -23,7 +23,7 @@ A **REDE** é feita de servidores através do globo, por onde os dados fluem fre
 
 A **MODERADORA DO JOGO (MJ)** usa as regras do jogo para estabelecer um mundo dinâmico em volta das PJ. Ela ajuda a organizar a conversa para que fique voltada aos elementos mais interessantes do jogo.
 
-{: .content }
+{: .conteudo }
 ESTE JOGO VISITA TÓPICOS SENSÍVEIS COMO ESTIGMA SOCIAL, SEGREGAÇÃO DE CLASSES, DESASTRES EM LARGA ESCALA, VIOLÊNCIA E ABUSO DE SUBSTÂNCIAS. POR CAUSA DISSO, ELE É VOLTADO A LEITORES MADUROS, QUE TENHAM CONFIANÇA MÚTUA E FERRAMENTAS DE SEGURANÇA IMPLEMENTADAS (EX.: O X-CARD, LINHAS E VÉUS E PORTAS ABERTAS).
 
 {: .alerta }
