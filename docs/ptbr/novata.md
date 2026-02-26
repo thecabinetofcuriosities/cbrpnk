@@ -49,7 +49,7 @@ Quando todos os espaços estiverem marcados, a Novata se forma após a próxima 
 
 \[2 Marcações\] Restrições de Equipamento: sua rede de contatos ainda não está estabelecida. Melhorias e Recursos custam 1 Estresse adicional para declarar. *Dica: escolha Inconvenientes como DÉBITO ou PROCURADA para reduzir o custo em Estresse.*
 
-\[2 Marcações\] Coloque a equipe em risco ao cometer um __Erro de Novata__ (veja exemplos abaixo).
+\[2 Marcações\] Coloque a equipe em risco ao cometer um __Erro de Principiante__ (veja exemplos abaixo).
 
 \[2 Marcações\] Ajude uma Correria em um desafio claramente acima do seu nível usando uma Perícia na qual você não tem dados.
 
