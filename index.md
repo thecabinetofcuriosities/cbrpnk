@@ -17,7 +17,7 @@ It is not a System Reference Document (SRD) and does not grant permission to rep
 If you wish to publish third-party material compatible with CBR+PNK, you must do so in accordance with the official CBR+PNK Compatibility License, available at: [https://emanoelmelo.itch.io/cbrpnk-toolkit](https://emanoelmelo.itch.io/cbrpnk-toolkit).
 Use of this website does not grant any license beyond those expressly provided in that document.
 
-* * *
+* * * 
 
 ## AVAILABLE LANGUAGES
 
