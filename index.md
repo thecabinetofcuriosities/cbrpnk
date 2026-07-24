@@ -1,12 +1,12 @@
 ---
-title: CBR+PNK /TXT
+title: CBR+PNK .TXT
 layout: home
 nav_order: 1
 has_children: false
 permalink: /
 ---
 
-# CBR+PNK /TXT
+# CBR+PNK .TXT
 
 ## Plain Text Core Rules
 _v1.6 April 2024_
