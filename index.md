@@ -8,31 +8,33 @@ permalink: /
 
 # CBR+PNK .TXT
 
-## Plain Text Core Rules
-_v1.6 April 2024_
+## Règles de Base en Texte Simple
+_v1.6 - Avril 2024_
 
 {: .warning }
-This website provides the complete text of the game for reading and reference purposes only.
-It is not a System Reference Document (SRD) and does not grant permission to reproduce, adapt, redistribute, or create derivative works based on this content.
-If you wish to publish third-party material compatible with CBR+PNK, you must do so in accordance with the official CBR+PNK Compatibility License, available at: [https://emanoelmelo.itch.io/cbrpnk-toolkit](https://emanoelmelo.itch.io/cbrpnk-toolkit).
-Use of this website does not grant any license beyond those expressly provided in that document.
+Ce site fournit le texte intégral du jeu à des fins de lecture et de référence uniquement.
+Il ne s'agit pas d'un Document de Référence Système (SRD) et n'accorde aucune permission de reproduire, adapter, redistribuer ou créer des œuvres dérivées basées sur ce contenu.
+Si vous souhaitez publier du matériel tiers compatible avec CBR+PNK, vous devez le faire conformément à la **Licence de Compatibilité Officielle CBR+PNK**, disponible à l'adresse : [https://emanoelmelo.itch.io/cbrpnk-toolkit](https://emanoelmelo.itch.io/cbrpnk-toolkit).
+L'utilisation de ce site n'accorde aucune licence au-delà de celles expressément prévues dans ce document.
 
 * * * 
 
-## AVAILABLE LANGUAGES
+## LANGUES DISPONIBLES
 
-[Read the Plain Text Core Rules in English](/docs/en/index)
+[Lire les Règles de Base en Texte Simple en **Français**](/docs/fr/index)
 
-[Texto Simples das Regras Base em Português Brasileiro](/docs/ptbr/ptbr-index.md)
+[Read the Plain Text Core Rules in **English**](/docs/en/index)
 
-* * *
-
-Get the brochures in digital format at [emanoelmelo.itch.io/cbrpnk-core](https://emanoelmelo.itch.io/cbrpnk-core)
-
-Get the boxed set at [myth.works](https://myth.works/products/cbr-pnk)
+[Texto Simples das Regras Base em **Português Brasileiro**](/docs/ptbr/ptbr-index.md)
 
 * * *
 
-CBR+PNK created by EMANOEL MELO ([cabinetofcuriosities.games](https://cabinetofcuriosities.game)) and published by MYTHWORKS ([myth.works](https://myth.works)).
+Obtenez les brochures au format numérique sur [emanoelmelo.itch.io/cbrpnk-core](https://emanoelmelo.itch.io/cbrpnk-core)
 
-This work is based on [Blades in the Dark](https://www.bladesinthedark.com/) , product of One Seven Design, developed and authored by John Harper, and licensed for our use under the [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/) license.
+Obtenez le coffret physique sur [myth.works](https://myth.works/products/cbr-pnk)
+
+* * *
+
+CBR+PNK a été créé par **EMANOEL MELO** ([cabinetofcuriosities.games](https://cabinetofcuriosities.games)) et publié par **MYTHWORKS** ([myth.works](https://myth.works)).
+
+Ce travail est basé sur [*Blades in the Dark*](https://www.bladesinthedark.com/), un produit de One Seven Design, développé et écrit par John Harper, et sous licence [Creative Commons Attribution 3.0 Unported](http://creativecommons.org/licenses/by/3.0/).

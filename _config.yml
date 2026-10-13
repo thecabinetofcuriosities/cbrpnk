@@ -12,9 +12,12 @@ collections:
   en:
     permalink: "/:collection/:path/"
     output: true
-# ptbr:
-#    permalink: "/:collection/:path/"
-#    output: true
+  ptbr:
+    permalink: "/:collection/:path/"
+    output: true
+  fr:
+    permalink: "/:collection/:path/"
+    output: true
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/cbrpnk_logo.png"
@@ -65,6 +68,9 @@ callouts:
     color: yellow
   conteudo:
     title: Alerta de Conteúdo
+    color: yellow
+  avertissement:
+    title: Avertissement
     color: yellow
 
 gems:
